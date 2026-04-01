@@ -1,0 +1,2350 @@
+indicator,region,unit,year,value,source
+Age moyen à la procréation (AMP),TCHAD,Number,2009,29.9,INSEED - Demography
+Espérance de vie femmes,TCHAD,Year,1993,54.5,INSEED - Demography
+Espérance de vie femmes,TCHAD,Year,2009,53.4,INSEED - Demography
+Espérance de vie hommes,TCHAD,Year,1993,47.0,INSEED - Demography
+Espérance de vie hommes,TCHAD,Year,2009,51.6,INSEED - Demography
+Espérance de vie totale,TCHAD,Year,1993,50.3,INSEED - Demography
+Espérance de vie totale,TCHAD,Year,2009,52.4,INSEED - Demography
+Espérance de vie totale,TCHAD,Year,2015,52.9,INSEED - Demography
+Indice Synthétique de Fécondité (ISF),TCHAD,Child,1993,6.5,INSEED - Demography
+Indice Synthétique de Fécondité (ISF),TCHAD,Child,1996,6.6,INSEED - Demography
+Indice Synthétique de Fécondité (ISF),TCHAD,Child,2004,6.3,INSEED - Demography
+Indice Synthétique de Fécondité (ISF),TCHAD,Child,2009,7.1,INSEED - Demography
+Indice Synthétique de Fécondité (ISF),TCHAD,Child,2010,6.9,INSEED - Demography
+Indice Synthétique de Fécondité (ISF),TCHAD,Child,2015,6.4,INSEED - Demography
+Indice Synthétique de Fécondité (ISF),TCHAD,Child,2019,6.4,INSEED - Demography
+Prévalence de la contraception (ensemble des méthodes),TCHAD,,2009,4.8,INSEED - Demography
+Prévalence du VIH/SIDA dans la population adulte,TCHAD,Percent,2009,3.4,INSEED - Demography
+Taux Brut de Mortalité (TBM),TCHAD,Percent,1993,16.3,INSEED - Demography
+Taux Brut de Mortalité (TBM),TCHAD,Percent,2009,14.8,INSEED - Demography
+Taux Brut de Mortalité (TBM),TCHAD,Percent,2015,13.6,INSEED - Demography
+Taux Brut de Natalité (TBN),TCHAD,Percent,1993,40.9,INSEED - Demography
+Taux Brut de Natalité (TBN),TCHAD,Percent,1996,48.0,INSEED - Demography
+Taux Brut de Natalité (TBN),TCHAD,Percent,2004,45.0,INSEED - Demography
+Taux Brut de Natalité (TBN),TCHAD,Percent,2009,49.6,INSEED - Demography
+Taux Brut de Natalité (TBN),TCHAD,Percent,2015,47.9,INSEED - Demography
+Taux Brut de Reproduction,TCHAD,Percent,2009,3.5,INSEED - Demography
+Taux d'Accroissement Naturel(TAN),TCHAD,Percent,2009,3.6,INSEED - Demography
+Taux d'Accroissement Naturel(TAN),TCHAD,Percent,2015,3.43,INSEED - Demography
+Taux de Croissance annuelle(TC),TCHAD,Percent,2009,3.5,INSEED - Demography
+Taux de Croissance annuelle(TC),TCHAD,Percent,2015,3.4,INSEED - Demography
+Taux de Mortalité Infantile,TCHAD,Percent,1993,160.0,INSEED - Demography
+Taux de Mortalité Infantile,TCHAD,Percent,1996,103.0,INSEED - Demography
+Taux de Mortalité Infantile,TCHAD,Percent,2000,105.0,INSEED - Demography
+Taux de Mortalité Infantile,TCHAD,Percent,2004,102.0,INSEED - Demography
+Taux de Mortalité Infantile,TCHAD,Percent,2009,98.0,INSEED - Demography
+Taux de Mortalité Infantile,TCHAD,Percent,2010,106.0,INSEED - Demography
+Taux de Mortalité Infanto-Juvénile,TCHAD,Percent,1993,223.0,INSEED - Demography
+Taux de Mortalité Infanto-Juvénile,TCHAD,Percent,1996,194.0,INSEED - Demography
+Taux de Mortalité Infanto-Juvénile,TCHAD,Percent,2000,194.0,INSEED - Demography
+Taux de Mortalité Infanto-Juvénile,TCHAD,Percent,2004,191.0,INSEED - Demography
+Taux de Mortalité Infanto-Juvénile,TCHAD,Percent,2009,161.0,INSEED - Demography
+Taux de Mortalité Infanto-Juvénile,TCHAD,Percent,2010,175.0,INSEED - Demography
+Temps de doublement,TCHAD,,2009,19.0,INSEED - Demography
+Couverture vaccinale contre l’hépatite B,TCHAD,Percent,2010,0.111,INSEED - Disease
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,1996,0.391,INSEED - Disease
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,2000,0.207,INSEED - Disease
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,2004,0.2,INSEED - Disease
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,2010,0.155,INSEED - Disease
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,2014,58.3,INSEED - Disease
+Couverture vaccinale de la fièvre jaune,TCHAD,Percent,1996,0.247,INSEED - Disease
+Couverture vaccinale de la fièvre jaune,TCHAD,Percent,2000,0.309,INSEED - Disease
+Couverture vaccinale de la fièvre jaune,TCHAD,Percent,2010,0.255,INSEED - Disease
+Couverture vaccinale de la fièvre jaune,TCHAD,Percent,2014,43.5,INSEED - Disease
+Couverture vaccinale de la polio,TCHAD,Percent,1996,0.534,INSEED - Disease
+Couverture vaccinale de la polio,TCHAD,Percent,2000,0.505,INSEED - Disease
+Couverture vaccinale de la polio,TCHAD,Percent,2004,0.36,INSEED - Disease
+Couverture vaccinale de la polio,TCHAD,Percent,2010,0.25,INSEED - Disease
+Couverture vaccinale de la polio,TCHAD,Percent,2014,76.3,INSEED - Disease
+Couverture vaccinale de la rougeole,TCHAD,Percent,1996,0.228,INSEED - Disease
+Couverture vaccinale de la rougeole,TCHAD,Percent,2000,0.297,INSEED - Disease
+Couverture vaccinale de la rougeole,TCHAD,Percent,2004,0.23,INSEED - Disease
+Couverture vaccinale de la rougeole,TCHAD,Percent,2010,0.36,INSEED - Disease
+Couverture vaccinale de la rougeole,TCHAD,Percent,2014,0.569,INSEED - Disease
+Couverture vaccinale du BCG,TCHAD,Percent,1996,0.388,INSEED - Disease
+Couverture vaccinale du BCG,TCHAD,Percent,2000,0.454,INSEED - Disease
+Couverture vaccinale du BCG,TCHAD,Percent,2004,0.4,INSEED - Disease
+Couverture vaccinale du BCG,TCHAD,Percent,2010,0.438,INSEED - Disease
+Couverture vaccinale du BCG,TCHAD,Percent,2014,59.6,INSEED - Disease
+NUTRITION,TCHAD,,2018,0.6,INSEED - Disease
+Naissances enregistrées (pour 1 000),TCHAD,Number,2010,15.7,INSEED - Disease
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,1996,0.24,INSEED - Disease
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2000,0.162,INSEED - Disease
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2004,0.21,INSEED - Disease
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2010,0.227,INSEED - Disease
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2014,0.243,INSEED - Disease
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2018,0.472,INSEED - Disease
+Pourcentage d'enfants complètement vaccinés,TCHAD,Percent,1996,0.111,INSEED - Disease
+Pourcentage d'enfants complètement vaccinés,TCHAD,Percent,2014,22.9,INSEED - Disease
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,1996,0.16,INSEED - Disease
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,2000,0.416,INSEED - Disease
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,2004,0.43,INSEED - Disease
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,2010,0.532,INSEED - Disease
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,2014,63.7,INSEED - Disease
+Protection des enfants contre le tétanos néonatal,TCHAD,Percent,2000,0.385,INSEED - Disease
+Protection des enfants contre le tétanos néonatal,TCHAD,Percent,2004,0.29,INSEED - Disease
+Protection des enfants contre le tétanos néonatal,TCHAD,Percent,2010,0.431,INSEED - Disease
+Protection des enfants contre le tétanos néonatal,TCHAD,Percent,2014,0.56,INSEED - Disease
+Prévalence de l'obésité,TCHAD,Percent,2018,2.3,INSEED - Disease
+Prévalence de l'émaciation,TCHAD,Percent,1996,14.0,INSEED - Disease
+Prévalence de l'émaciation,TCHAD,Percent,2000,0.117,INSEED - Disease
+Prévalence de l'émaciation,TCHAD,Percent,2004,0.14,INSEED - Disease
+Prévalence de l'émaciation,TCHAD,Percent,2010,15.7,INSEED - Disease
+Prévalence de l'émaciation,TCHAD,Percent,2014,13.0,INSEED - Disease
+Prévalence de l'émaciation,TCHAD,Percent,2018,13.9,INSEED - Disease
+Prévalence de la sous-alimentation,TCHAD,Percent,1996,39.0,INSEED - Disease
+Prévalence de la sous-alimentation,TCHAD,Percent,2000,0.276,INSEED - Disease
+Prévalence de la sous-alimentation,TCHAD,Percent,2004,37.0,INSEED - Disease
+Prévalence de la sous-alimentation,TCHAD,Percent,2010,30.3,INSEED - Disease
+Prévalence de la sous-alimentation,TCHAD,Percent,2014,28.8,INSEED - Disease
+Prévalence de la sous-alimentation,TCHAD,Percent,2018,29.2,INSEED - Disease
+Prévalence des maladies,TCHAD,Percent,1996,0.0,INSEED - Disease
+Prévalence du retard de croissance,TCHAD,Percent,1996,40.0,INSEED - Disease
+Prévalence du retard de croissance,TCHAD,Percent,2000,0.283,INSEED - Disease
+Prévalence du retard de croissance,TCHAD,Percent,2004,0.41,INSEED - Disease
+Prévalence du retard de croissance,TCHAD,Percent,2010,38.7,INSEED - Disease
+Prévalence du retard de croissance,TCHAD,Percent,2014,40.0,INSEED - Disease
+Prévalence du retard de croissance,TCHAD,Percent,2018,37.8,INSEED - Disease
+Taux d'insuffisance pondérale modérée 6 à 59 mois (%),TCHAD,Percent,2014,15.5,INSEED - Disease
+Taux d'insuffisance pondérale sévère 6 à 59 mois (%),TCHAD,Percent,2014,6.5,INSEED - Disease
+Taux d'insuffisance pondérale sévère 6 à 59 mois (%),TCHAD,Percent,2018,16.0,INSEED - Disease
+Taux de couverture en vaccin antirougeoleux (%),TCHAD,Percent,2014,66.1,INSEED - Disease
+Taux de malnutrition aiguë modérée (6-59 mois),TCHAD,Percent,2014,8.9,INSEED - Disease
+Taux de malnutrition aiguë sévère (6-59 mois),TCHAD,Percent,2014,2.8,INSEED - Disease
+Taux de malnutrition chronique sévère (0-59) mois),TCHAD,Percent,2014,11.0,INSEED - Disease
+"Taux de malnutrition chronique, modérée (0-59 mois)",TCHAD,Percent,2014,18.0,INSEED - Disease
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,1996,194.0,INSEED - Disease
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2000,194.0,INSEED - Disease
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2004,191.0,INSEED - Disease
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2010,175.0,INSEED - Disease
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2014,133.0,INSEED - Disease
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2018,122.0,INSEED - Disease
+Taux de mortalité due au paludisme (parmi toutes les causes de mortalité chez les 0-5 ans),TCHAD,,2014,0.51,INSEED - Disease
+Taux de mortalité due au paludisme (parmi toutes les causes de mortalité chez les 0-5 ans),TCHAD,,2018,8.7,INSEED - Disease
+Taux de mortalité infantile (%)(0 à 11 mois),TCHAD,Percent,2014,72.0,INSEED - Disease
+Taux de mortalité infantile (%)(0 à 11 mois),TCHAD,Percent,2018,0.96,INSEED - Disease
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,1996,103.0,INSEED - Disease
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2000,105.0,INSEED - Disease
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2004,102.0,INSEED - Disease
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2010,106.0,INSEED - Disease
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2014,72.0,INSEED - Disease
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2018,78.0,INSEED - Disease
+Taux de mortalité maternelle pour 100 000 naissance,TCHAD,Number,1996,827.0,INSEED - Disease
+Taux de mortalité maternelle pour 100 000 naissance,TCHAD,Number,2014,860.0,INSEED - Disease
+Taux de natalité chez les adolescentes,TCHAD,Percent,2010,203.4,INSEED - Disease
+Taux de natalité chez les adolescentes,TCHAD,Percent,2014,179.4,INSEED - Disease
+Taux de natalité chez les adolescentes,TCHAD,Percent,2018,138.0,INSEED - Disease
+Taux de prévalence contraceptive,TCHAD,Percent,1996,0.04,INSEED - Disease
+Taux de prévalence contraceptive,TCHAD,Percent,2000,0.079,INSEED - Disease
+Taux de prévalence contraceptive,TCHAD,Percent,2010,0.048,INSEED - Disease
+Taux de prévalence contraceptive,TCHAD,Percent,2014,0.057,INSEED - Disease
+Taux de prévalence contraceptive,TCHAD,Percent,2018,0.081,INSEED - Disease
+Autres catégories,TCHAD,Percent,2011,2.6,INSEED - Employment & Poverty
+Autres catégories,TCHAD,Percent,2018,2.2,INSEED - Employment & Poverty
+Autres milieux urbains,TCHAD,Percent,2011,2.4,INSEED - Employment & Poverty
+Autres milieux urbains,TCHAD,Percent,2018,2.0,INSEED - Employment & Poverty
+Catégorie socio professionnelle du chef de ménage,TCHAD,Percent,2011,2.7,INSEED - Employment & Poverty
+Catégorie socio professionnelle du chef de ménage,TCHAD,Percent,2018,2.5,INSEED - Employment & Poverty
+Incidence,TCHAD,Percent,2011,46.7,INSEED - Employment & Poverty
+Incidence,TCHAD,Percent,2018,42.3,INSEED - Employment & Poverty
+Indice GINI,TCHAD,Percent,2018,0.34,INSEED - Employment & Poverty
+Masculin,TCHAD,Percent,2011,3.6,INSEED - Employment & Poverty
+Masculin,TCHAD,Percent,2018,2.1,INSEED - Employment & Poverty
+Moyen pauvre,TCHAD,Number,2011,871476.0,INSEED - Employment & Poverty
+Moyen pauvre,TCHAD,Number,2018,1298238.0,INSEED - Employment & Poverty
+Moyen riche,TCHAD,Number,2011,1962810.0,INSEED - Employment & Poverty
+Moyen riche,TCHAD,Number,2018,2094186.0,INSEED - Employment & Poverty
+Médian,TCHAD,Number,2011,1680843.0,INSEED - Employment & Poverty
+Médian,TCHAD,Number,2018,1651325.0,INSEED - Employment & Poverty
+N'Djaména,TCHAD,Percent,2011,3.3,INSEED - Employment & Poverty
+N'Djaména,TCHAD,Percent,2018,2.5,INSEED - Employment & Poverty
+Plus pauvre,TCHAD,Number,2011,534361.0,INSEED - Employment & Poverty
+Plus pauvre,TCHAD,Number,2018,915333.0,INSEED - Employment & Poverty
+Plus riche,TCHAD,Number,2011,3289419.0,INSEED - Employment & Poverty
+Plus riche,TCHAD,Number,2018,3118199.0,INSEED - Employment & Poverty
+Profondeur,TCHAD,Percent,2011,26.3,INSEED - Employment & Poverty
+Profondeur,TCHAD,Percent,2018,12.6,INSEED - Employment & Poverty
+Rapport de dépendance économique total,TCHAD,Percent,2011,3.6,INSEED - Employment & Poverty
+Rapport de dépendance économique total,TCHAD,Percent,2018,3.3,INSEED - Employment & Poverty
+Rural,TCHAD,Percent,2018,2.2,INSEED - Employment & Poverty
+Sexe du chef de ménage,TCHAD,Percent,2011,2.4,INSEED - Employment & Poverty
+Sexe du chef de ménage,TCHAD,Percent,2018,2.2,INSEED - Employment & Poverty
+Sévérité,TCHAD,Percent,2011,15.9,INSEED - Employment & Poverty
+Sévérité,TCHAD,Percent,2018,5.2,INSEED - Employment & Poverty
+Taux d'emploi,TCHAD,Percent,2003,0.448,INSEED - Employment & Poverty
+Taux d'emploi,TCHAD,Percent,2011,61.8,INSEED - Employment & Poverty
+Taux d'emploi,TCHAD,Percent,2018,0.6,INSEED - Employment & Poverty
+Taux de chômage,TCHAD,Percent,2003,0.226,INSEED - Employment & Poverty
+Taux de chômage,TCHAD,Percent,2011,0.057,INSEED - Employment & Poverty
+Taux de chômage,TCHAD,Percent,2018,0.02,INSEED - Employment & Poverty
+Taux de pauvreté,TCHAD,Percent,2003,0.55,INSEED - Employment & Poverty
+Taux de pauvreté,TCHAD,Percent,2011,0.467,INSEED - Employment & Poverty
+Taux de pauvreté,TCHAD,Percent,2018,0.423,INSEED - Employment & Poverty
+patron/propre compte,TCHAD,Percent,2011,5.5,INSEED - Employment & Poverty
+patron/propre compte,TCHAD,Percent,2018,4.2,INSEED - Employment & Poverty
+salarié,TCHAD,Percent,2011,1.6,INSEED - Employment & Poverty
+salarié,TCHAD,Percent,2018,2.0,INSEED - Employment & Poverty
+"Exports (not including petrol), value",TCHAD,Francs CFA,2005,93611000000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2006,127884000000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2007,55788000000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2008,40370000000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2009,38016000000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2010,32832000000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2011,45854000000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2012,55269000000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2013,63692000000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2014,32480000000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2015,325384000000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2016,183041000000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2017,100542760000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2018,96241180000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2019,103011000000.0,INSEED - Exports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2020,106542178000.0,INSEED - Exports
+"Exports (not including petrol), volume",TCHAD,tonnes,2005,413453.0,INSEED - Exports
+"Exports (not including petrol), volume",TCHAD,tonnes,2006,347523.0,INSEED - Exports
+"Exports (not including petrol), volume",TCHAD,tonnes,2009,79102.57,INSEED - Exports
+"Exports (not including petrol), volume",TCHAD,tonnes,2010,87718993.0,INSEED - Exports
+"Exports (not including petrol), volume",TCHAD,tonnes,2011,99487.0,INSEED - Exports
+"Exports (not including petrol), volume",TCHAD,tonnes,2012,13747580.0,INSEED - Exports
+"Exports (not including petrol), volume",TCHAD,tonnes,2013,146421.0,INSEED - Exports
+"Exports (not including petrol), volume",TCHAD,tonnes,2014,64076.0,INSEED - Exports
+"Exports (not including petrol), volume",TCHAD,tonnes,2015,221257.0,INSEED - Exports
+"Exports (not including petrol), volume",TCHAD,tonnes,2016,201194.0,INSEED - Exports
+"Exports (not including petrol), volume",TCHAD,tonnes,2017,268547.77,INSEED - Exports
+"Exports (not including petrol), volume",TCHAD,tonnes,2018,299620.48,INSEED - Exports
+"Exports (not including petrol), volume",TCHAD,tonnes,2019,346523.7,INSEED - Exports
+"Exports (not including petrol), volume",TCHAD,tonnes,2020,347703.875,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2004,319426000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2005,431172000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2006,556821000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2007,384488000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2008,374110000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2009,450000000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2010,550546000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2011,579123000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2012,392419000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2013,379135000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2014,550662000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2015,593083000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2016,690157000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2017,410024000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2018,429026000000.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2019,695697848500.0,INSEED - Exports
+"Imports, value",TCHAD,Francs CFA,2020,549419768469.45,INSEED - Exports
+"Imports, volume",TCHAD,tonnes,2004,588363.0,INSEED - Exports
+"Imports, volume",TCHAD,tonnes,2005,722945.0,INSEED - Exports
+"Imports, volume",TCHAD,tonnes,2007,641001.0,INSEED - Exports
+"Imports, volume",TCHAD,tonnes,2010,1059632.0,INSEED - Exports
+"Imports, volume",TCHAD,tonnes,2011,1074715.0,INSEED - Exports
+"Imports, volume",TCHAD,tonnes,2012,736195.0,INSEED - Exports
+"Imports, volume",TCHAD,tonnes,2013,646217.0,INSEED - Exports
+"Imports, volume",TCHAD,tonnes,2014,886832.0,INSEED - Exports
+"Imports, volume",TCHAD,tonnes,2015,892711.0,INSEED - Exports
+"Imports, volume",TCHAD,tonnes,2016,906652.0,INSEED - Exports
+"Imports, volume",TCHAD,tonnes,2017,793349.0,INSEED - Exports
+"Imports, volume",TCHAD,tonnes,2018,811655.0,INSEED - Exports
+"Imports, volume",TCHAD,tonnes,2019,1407922.463,INSEED - Exports
+"Imports, volume",TCHAD,tonnes,2020,1285157.807237,INSEED - Exports
+Période courante,Bahr-El-Gazel,Number,2016,82449.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2016,3899.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2017,21640.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2017,13585.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2018,51192.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2018,10340.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2019,11713.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2019,24950.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2020,78430.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2020,15887.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2021,76448.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2021,30872.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2022,92680.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2022,24979.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2023,79222.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2023,50827.0,INSEED - Food Security
+Période courante,Bahr-El-Gazel,Number,2024,105217.0,INSEED - Food Security
+Période courante,Batha,Number,2016,67164.0,INSEED - Food Security
+Période courante,Batha,Number,2016,37815.0,INSEED - Food Security
+Période courante,Batha,Number,2017,12732.0,INSEED - Food Security
+Période courante,Batha,Number,2017,13577.0,INSEED - Food Security
+Période courante,Batha,Number,2018,88192.0,INSEED - Food Security
+Période courante,Batha,Number,2018,28933.0,INSEED - Food Security
+Période courante,Batha,Number,2019,9754.0,INSEED - Food Security
+Période courante,Batha,Number,2019,34911.0,INSEED - Food Security
+Période courante,Batha,Number,2020,34484.0,INSEED - Food Security
+Période courante,Batha,Number,2020,30621.0,INSEED - Food Security
+Période courante,Batha,Number,2021,82551.0,INSEED - Food Security
+Période courante,Batha,Number,2021,47747.0,INSEED - Food Security
+Période courante,Batha,Number,2022,71098.0,INSEED - Food Security
+Période courante,Batha,Number,2022,26341.0,INSEED - Food Security
+Période courante,Batha,Number,2023,51147.0,INSEED - Food Security
+Période courante,Batha,Number,2023,125128.0,INSEED - Food Security
+Période courante,Batha,Number,2024,142632.0,INSEED - Food Security
+Période courante,Borkou,Number,2017,0.0,INSEED - Food Security
+Période courante,Borkou,Number,2017,0.0,INSEED - Food Security
+Période courante,Borkou,Number,2018,0.0,INSEED - Food Security
+Période courante,Borkou,Number,2018,5321.0,INSEED - Food Security
+Période courante,Borkou,Number,2019,14275.0,INSEED - Food Security
+Période courante,Borkou,Number,2019,3018.0,INSEED - Food Security
+Période courante,Borkou,Number,2020,11758.0,INSEED - Food Security
+Période courante,Borkou,Number,2020,15033.0,INSEED - Food Security
+Période courante,Borkou,Number,2021,38109.0,INSEED - Food Security
+Période courante,Borkou,Number,2021,11405.0,INSEED - Food Security
+Période courante,Borkou,Number,2022,3350.0,INSEED - Food Security
+Période courante,Borkou,Number,2022,21077.0,INSEED - Food Security
+Période courante,Borkou,Number,2023,9561.0,INSEED - Food Security
+Période courante,Borkou,Number,2023,24600.0,INSEED - Food Security
+Période courante,Borkou,Number,2024,28315.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2016,0.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2016,20561.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2017,0.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2017,0.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2018,0.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2018,0.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2019,17207.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2019,3158.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2020,0.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2020,11985.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2021,26844.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2021,39624.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2022,29789.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2022,36546.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2023,22863.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2023,85326.0,INSEED - Food Security
+Période courante,Chari-Baguirmi,Number,2024,56327.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2016,0.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2016,8913.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2017,0.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2017,2181.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2018,0.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2018,0.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2019,6619.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2019,2337.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2020,5968.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2020,3567.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2021,4904.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2021,6964.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2022,10223.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2022,4285.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2023,4817.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2023,28571.0,INSEED - Food Security
+Période courante,Ennedi-Est,Number,2024,39390.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2016,0.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2016,5631.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2017,0.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2017,1080.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2018,0.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2018,0.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2019,8475.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2019,1157.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2020,2362.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2020,4229.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2021,20691.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2021,20316.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2022,16928.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2022,6992.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2023,24142.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2023,5736.0,INSEED - Food Security
+Période courante,Ennedi-Ouest,Number,2024,21534.0,INSEED - Food Security
+Période courante,Guéra,Number,2016,48885.0,INSEED - Food Security
+Période courante,Guéra,Number,2016,65411.0,INSEED - Food Security
+Période courante,Guéra,Number,2017,37777.0,INSEED - Food Security
+Période courante,Guéra,Number,2017,9473.0,INSEED - Food Security
+Période courante,Guéra,Number,2018,82460.0,INSEED - Food Security
+Période courante,Guéra,Number,2018,14280.0,INSEED - Food Security
+Période courante,Guéra,Number,2019,0.0,INSEED - Food Security
+Période courante,Guéra,Number,2019,2537.0,INSEED - Food Security
+Période courante,Guéra,Number,2020,46211.0,INSEED - Food Security
+Période courante,Guéra,Number,2020,36245.0,INSEED - Food Security
+Période courante,Guéra,Number,2021,55985.0,INSEED - Food Security
+Période courante,Guéra,Number,2021,58904.0,INSEED - Food Security
+Période courante,Guéra,Number,2022,52141.0,INSEED - Food Security
+Période courante,Guéra,Number,2022,37721.0,INSEED - Food Security
+Période courante,Guéra,Number,2023,52302.0,INSEED - Food Security
+Période courante,Guéra,Number,2023,107965.0,INSEED - Food Security
+Période courante,Guéra,Number,2024,114056.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2016,25242.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2016,22566.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2017,13584.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2018,0.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2018,0.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2019,0.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2019,20607.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2020,8341.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2020,18572.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2021,107894.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2021,51869.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2022,113341.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2022,27244.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2023,38608.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2023,127733.0,INSEED - Food Security
+Période courante,Hadjer-Lamis,Number,2024,139388.0,INSEED - Food Security
+Période courante,Kanem,Number,2016,109606.0,INSEED - Food Security
+Période courante,Kanem,Number,2016,11370.0,INSEED - Food Security
+Période courante,Kanem,Number,2017,26879.0,INSEED - Food Security
+Période courante,Kanem,Number,2017,12622.0,INSEED - Food Security
+Période courante,Kanem,Number,2018,63301.0,INSEED - Food Security
+Période courante,Kanem,Number,2018,15650.0,INSEED - Food Security
+Période courante,Kanem,Number,2019,19840.0,INSEED - Food Security
+Période courante,Kanem,Number,2019,36062.0,INSEED - Food Security
+Période courante,Kanem,Number,2020,42964.0,INSEED - Food Security
+Période courante,Kanem,Number,2020,46863.0,INSEED - Food Security
+Période courante,Kanem,Number,2021,84008.0,INSEED - Food Security
+Période courante,Kanem,Number,2021,102695.0,INSEED - Food Security
+Période courante,Kanem,Number,2022,67358.0,INSEED - Food Security
+Période courante,Kanem,Number,2022,38620.0,INSEED - Food Security
+Période courante,Kanem,Number,2023,59965.0,INSEED - Food Security
+Période courante,Kanem,Number,2023,123686.0,INSEED - Food Security
+Période courante,Kanem,Number,2024,184127.0,INSEED - Food Security
+Période courante,Lac,Number,2016,136164.0,INSEED - Food Security
+Période courante,Lac,Number,2016,81438.0,INSEED - Food Security
+Période courante,Lac,Number,2017,159603.0,INSEED - Food Security
+Période courante,Lac,Number,2017,26858.0,INSEED - Food Security
+Période courante,Lac,Number,2018,132966.0,INSEED - Food Security
+Période courante,Lac,Number,2018,24665.0,INSEED - Food Security
+Période courante,Lac,Number,2019,107748.0,INSEED - Food Security
+Période courante,Lac,Number,2019,22610.0,INSEED - Food Security
+Période courante,Lac,Number,2020,44972.0,INSEED - Food Security
+Période courante,Lac,Number,2020,52286.0,INSEED - Food Security
+Période courante,Lac,Number,2021,145202.0,INSEED - Food Security
+Période courante,Lac,Number,2021,106900.0,INSEED - Food Security
+Période courante,Lac,Number,2022,112592.0,INSEED - Food Security
+Période courante,Lac,Number,2022,64597.0,INSEED - Food Security
+Période courante,Lac,Number,2023,50726.0,INSEED - Food Security
+Période courante,Lac,Number,2023,157840.0,INSEED - Food Security
+Période courante,Lac,Number,2024,269099.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2016,81167.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2016,5445.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2017,0.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2017,0.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2018,0.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2018,0.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2019,16389.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2019,14633.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2020,13663.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2020,47252.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2021,79592.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2021,75485.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2022,100346.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2022,63038.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2023,67537.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2023,131347.0,INSEED - Food Security
+Période courante,Logone Occidental,Number,2024,78020.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2016,39976.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2016,1434.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2017,0.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2017,0.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2018,0.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2018,55391.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2019,25563.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2019,7083.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2020,26152.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2020,65457.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2021,91922.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2021,74299.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2022,72682.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2022,90437.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2023,114138.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2023,169883.0,INSEED - Food Security
+Période courante,Logone Oriental,Number,2024,169456.0,INSEED - Food Security
+Période courante,Mandoul,Number,2016,63111.0,INSEED - Food Security
+Période courante,Mandoul,Number,2016,2053.0,INSEED - Food Security
+Période courante,Mandoul,Number,2017,0.0,INSEED - Food Security
+Période courante,Mandoul,Number,2017,0.0,INSEED - Food Security
+Période courante,Mandoul,Number,2018,0.0,INSEED - Food Security
+Période courante,Mandoul,Number,2018,0.0,INSEED - Food Security
+Période courante,Mandoul,Number,2019,15657.0,INSEED - Food Security
+Période courante,Mandoul,Number,2019,0.0,INSEED - Food Security
+Période courante,Mandoul,Number,2020,0.0,INSEED - Food Security
+Période courante,Mandoul,Number,2020,14618.0,INSEED - Food Security
+Période courante,Mandoul,Number,2021,19948.0,INSEED - Food Security
+Période courante,Mandoul,Number,2021,26348.0,INSEED - Food Security
+Période courante,Mandoul,Number,2022,13947.0,INSEED - Food Security
+Période courante,Mandoul,Number,2022,21776.0,INSEED - Food Security
+Période courante,Mandoul,Number,2023,19541.0,INSEED - Food Security
+Période courante,Mandoul,Number,2023,72901.0,INSEED - Food Security
+Période courante,Mandoul,Number,2024,146785.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2016,24124.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2016,0.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2017,0.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2017,0.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2018,0.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2018,0.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2019,24202.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2019,10416.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2020,6976.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2020,28481.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2021,42830.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2021,33451.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2022,56234.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2022,56327.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2023,31427.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2023,144278.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Est,Number,2024,13435.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2016,34964.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2016,0.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2017,0.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2017,0.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2018,0.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2018,0.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2019,0.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2019,7717.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2020,0.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2020,13939.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2021,36070.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2021,836.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2022,14185.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2022,19550.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2023,16909.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2023,48329.0,INSEED - Food Security
+Période courante,Mayo-Kébbi-Ouest,Number,2024,116772.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2016,41294.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2016,19676.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2017,7802.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2017,0.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2018,0.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2018,0.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2019,0.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2019,4514.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2020,17304.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2020,11112.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2021,53502.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2021,24854.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2022,18551.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2022,55321.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2023,72805.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2023,81173.0,INSEED - Food Security
+Période courante,Moyen-Chari,Number,2024,75221.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2016,38452.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2016,89556.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2017,39802.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2017,18054.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2018,79826.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2018,4060.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2019,0.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2019,43523.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2020,32142.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2020,31825.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2021,76694.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2021,36152.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2022,180343.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2022,58414.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2023,104885.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2023,172998.0,INSEED - Food Security
+Période courante,Ouaddaï,Number,2024,246424.0,INSEED - Food Security
+Période courante,Salamat,Number,2016,10000.0,INSEED - Food Security
+Période courante,Salamat,Number,2016,11175.0,INSEED - Food Security
+Période courante,Salamat,Number,2017,0.0,INSEED - Food Security
+Période courante,Salamat,Number,2017,5005.0,INSEED - Food Security
+Période courante,Salamat,Number,2018,0.0,INSEED - Food Security
+Période courante,Salamat,Number,2018,1839.0,INSEED - Food Security
+Période courante,Salamat,Number,2019,0.0,INSEED - Food Security
+Période courante,Salamat,Number,2019,2681.0,INSEED - Food Security
+Période courante,Salamat,Number,2020,12419.0,INSEED - Food Security
+Période courante,Salamat,Number,2020,13354.0,INSEED - Food Security
+Période courante,Salamat,Number,2021,31856.0,INSEED - Food Security
+Période courante,Salamat,Number,2021,81717.0,INSEED - Food Security
+Période courante,Salamat,Number,2022,37480.0,INSEED - Food Security
+Période courante,Salamat,Number,2022,12970.0,INSEED - Food Security
+Période courante,Salamat,Number,2023,28893.0,INSEED - Food Security
+Période courante,Salamat,Number,2023,53016.0,INSEED - Food Security
+Période courante,Salamat,Number,2024,38299.0,INSEED - Food Security
+Période courante,Sila,Number,2016,16205.0,INSEED - Food Security
+Période courante,Sila,Number,2016,16506.0,INSEED - Food Security
+Période courante,Sila,Number,2017,10283.0,INSEED - Food Security
+Période courante,Sila,Number,2017,12605.0,INSEED - Food Security
+Période courante,Sila,Number,2018,0.0,INSEED - Food Security
+Période courante,Sila,Number,2018,0.0,INSEED - Food Security
+Période courante,Sila,Number,2019,0.0,INSEED - Food Security
+Période courante,Sila,Number,2019,4502.0,INSEED - Food Security
+Période courante,Sila,Number,2020,35110.0,INSEED - Food Security
+Période courante,Sila,Number,2020,28645.0,INSEED - Food Security
+Période courante,Sila,Number,2021,49391.0,INSEED - Food Security
+Période courante,Sila,Number,2021,15610.0,INSEED - Food Security
+Période courante,Sila,Number,2022,76225.0,INSEED - Food Security
+Période courante,Sila,Number,2022,22742.0,INSEED - Food Security
+Période courante,Sila,Number,2023,38612.0,INSEED - Food Security
+Période courante,Sila,Number,2023,110174.0,INSEED - Food Security
+Période courante,Sila,Number,2024,132933.0,INSEED - Food Security
+Période courante,TCHAD,Number,2016,1001757.0,INSEED - Food Security
+Période courante,TCHAD,Number,2016,455953.0,INSEED - Food Security
+Période courante,TCHAD,Number,2017,380320.0,INSEED - Food Security
+Période courante,TCHAD,Number,2017,146426.0,INSEED - Food Security
+Période courante,TCHAD,Number,2018,623983.0,INSEED - Food Security
+Période courante,TCHAD,Number,2018,188887.0,INSEED - Food Security
+Période courante,TCHAD,Number,2019,311990.0,INSEED - Food Security
+Période courante,TCHAD,Number,2019,260367.0,INSEED - Food Security
+Période courante,TCHAD,Number,2020,438028.0,INSEED - Food Security
+Période courante,TCHAD,Number,2020,600773.0,INSEED - Food Security
+Période courante,TCHAD,Number,2021,1276190.0,INSEED - Food Security
+Période courante,TCHAD,Number,2021,963243.0,INSEED - Food Security
+Période courante,TCHAD,Number,2022,1293813.0,INSEED - Food Security
+Période courante,TCHAD,Number,2022,809237.0,INSEED - Food Security
+Période courante,TCHAD,Number,2023,1039974.0,INSEED - Food Security
+Période courante,TCHAD,Number,2023,2058264.0,INSEED - Food Security
+Période courante,TCHAD,Number,2024,2401973.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2016,28540.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2016,0.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2017,16894.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2017,10491.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2018,0.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2018,0.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2019,22770.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2019,7494.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2020,4698.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2020,28396.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2021,32576.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2021,38009.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2022,57349.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2022,86643.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2023,46491.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2023,101708.0,INSEED - Food Security
+Période courante,Tandjilé,Number,2024,126805.0,INSEED - Food Security
+Période courante,Tibesti,Number,2017,0.0,INSEED - Food Security
+Période courante,Tibesti,Number,2017,0.0,INSEED - Food Security
+Période courante,Tibesti,Number,2018,0.0,INSEED - Food Security
+Période courante,Tibesti,Number,2018,9418.0,INSEED - Food Security
+Période courante,Tibesti,Number,2019,4551.0,INSEED - Food Security
+Période courante,Tibesti,Number,2019,1482.0,INSEED - Food Security
+Période courante,Tibesti,Number,2020,2788.0,INSEED - Food Security
+Période courante,Tibesti,Number,2020,3800.0,INSEED - Food Security
+Période courante,Tibesti,Number,2021,2987.0,INSEED - Food Security
+Période courante,Tibesti,Number,2021,3901.0,INSEED - Food Security
+Période courante,Tibesti,Number,2022,3145.0,INSEED - Food Security
+Période courante,Tibesti,Number,2022,2787.0,INSEED - Food Security
+Période courante,Tibesti,Number,2023,1283.0,INSEED - Food Security
+Période courante,Tibesti,Number,2023,3880.0,INSEED - Food Security
+Période courante,Tibesti,Number,2024,3636.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2016,154414.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2016,52504.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2017,33324.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2017,20895.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2018,126046.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2018,18990.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2019,7227.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2019,4975.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2020,11286.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2020,78606.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2021,116186.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2021,75285.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2022,93826.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2022,30830.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2023,104100.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2023,131165.0,INSEED - Food Security
+Période courante,Wadi Fira,Number,2024,154102.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2016,74835.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2016,77462.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2017,66865.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2017,48516.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2018,83493.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2018,34450.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2019,37258.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2019,43663.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2020,102390.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2020,45483.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2021,96044.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2021,59234.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2022,119341.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2022,50755.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2023,119199.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2023,71540.0,INSEED - Food Security
+Période projetée,Bahr-El-Gazel,Number,2024,133513.0,INSEED - Food Security
+Période projetée,Batha,Number,2016,68060.0,INSEED - Food Security
+Période projetée,Batha,Number,2016,59346.0,INSEED - Food Security
+Période projetée,Batha,Number,2017,81556.0,INSEED - Food Security
+Période projetée,Batha,Number,2017,62453.0,INSEED - Food Security
+Période projetée,Batha,Number,2018,139624.0,INSEED - Food Security
+Période projetée,Batha,Number,2018,35876.0,INSEED - Food Security
+Période projetée,Batha,Number,2019,23887.0,INSEED - Food Security
+Période projetée,Batha,Number,2019,64003.0,INSEED - Food Security
+Période projetée,Batha,Number,2020,89416.0,INSEED - Food Security
+Période projetée,Batha,Number,2020,50726.0,INSEED - Food Security
+Période projetée,Batha,Number,2021,131972.0,INSEED - Food Security
+Période projetée,Batha,Number,2021,103743.0,INSEED - Food Security
+Période projetée,Batha,Number,2022,139525.0,INSEED - Food Security
+Période projetée,Batha,Number,2022,59952.0,INSEED - Food Security
+Période projetée,Batha,Number,2023,66137.0,INSEED - Food Security
+Période projetée,Batha,Number,2023,184055.0,INSEED - Food Security
+Période projetée,Batha,Number,2024,211102.0,INSEED - Food Security
+Période projetée,Borkou,Number,2017,0.0,INSEED - Food Security
+Période projetée,Borkou,Number,2017,4695.0,INSEED - Food Security
+Période projetée,Borkou,Number,2018,6080.0,INSEED - Food Security
+Période projetée,Borkou,Number,2018,10029.0,INSEED - Food Security
+Période projetée,Borkou,Number,2019,27936.0,INSEED - Food Security
+Période projetée,Borkou,Number,2019,5030.0,INSEED - Food Security
+Période projetée,Borkou,Number,2020,29660.0,INSEED - Food Security
+Période projetée,Borkou,Number,2020,35808.0,INSEED - Food Security
+Période projetée,Borkou,Number,2021,47321.0,INSEED - Food Security
+Période projetée,Borkou,Number,2021,22375.0,INSEED - Food Security
+Période projetée,Borkou,Number,2022,16636.0,INSEED - Food Security
+Période projetée,Borkou,Number,2022,27040.0,INSEED - Food Security
+Période projetée,Borkou,Number,2023,13159.0,INSEED - Food Security
+Période projetée,Borkou,Number,2023,41161.0,INSEED - Food Security
+Période projetée,Borkou,Number,2024,38971.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2016,0.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2016,28235.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2017,0.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2017,0.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2018,0.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2018,0.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2019,36292.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2019,14210.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2020,0.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2020,23520.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2021,46846.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2021,69575.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2022,71725.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2022,76040.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2023,57440.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2023,111182.0,INSEED - Food Security
+Période projetée,Chari-Baguirmi,Number,2024,139114.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2016,0.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2016,14238.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2017,0.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2017,4362.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2018,6278.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2018,2654.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2019,12505.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2019,10516.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2020,10294.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2020,6824.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2021,8598.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2021,16772.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2022,19566.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2022,7930.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2023,13984.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2023,38918.0,INSEED - Food Security
+Période projetée,Ennedi-Est,Number,2024,55327.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2016,0.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2016,12197.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2017,0.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2017,1619.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2018,2790.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2018,3447.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2019,14062.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2019,2892.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2020,5303.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2020,6244.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2021,25907.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2021,24010.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2022,23957.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2022,13091.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2023,28107.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2023,8452.0,INSEED - Food Security
+Période projetée,Ennedi-Ouest,Number,2024,25275.0,INSEED - Food Security
+Période projetée,Guéra,Number,2016,63197.0,INSEED - Food Security
+Période projetée,Guéra,Number,2016,129698.0,INSEED - Food Security
+Période projetée,Guéra,Number,2017,59506.0,INSEED - Food Security
+Période projetée,Guéra,Number,2017,14210.0,INSEED - Food Security
+Période projetée,Guéra,Number,2018,136633.0,INSEED - Food Security
+Période projetée,Guéra,Number,2018,23406.0,INSEED - Food Security
+Période projetée,Guéra,Number,2019,24132.0,INSEED - Food Security
+Période projetée,Guéra,Number,2019,5075.0,INSEED - Food Security
+Période projetée,Guéra,Number,2020,101533.0,INSEED - Food Security
+Période projetée,Guéra,Number,2020,50201.0,INSEED - Food Security
+Période projetée,Guéra,Number,2021,94916.0,INSEED - Food Security
+Période projetée,Guéra,Number,2021,90396.0,INSEED - Food Security
+Période projetée,Guéra,Number,2022,99670.0,INSEED - Food Security
+Période projetée,Guéra,Number,2022,68981.0,INSEED - Food Security
+Période projetée,Guéra,Number,2023,98265.0,INSEED - Food Security
+Période projetée,Guéra,Number,2023,140775.0,INSEED - Food Security
+Période projetée,Guéra,Number,2024,175090.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2016,37361.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2016,35594.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2017,21106.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2017,7760.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2018,9412.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2018,0.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2019,10548.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2019,32872.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2020,47838.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2020,33239.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2021,115521.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2021,80035.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2022,152682.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2022,64245.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2023,91597.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2023,209637.0,INSEED - Food Security
+Période projetée,Hadjer-Lamis,Number,2024,223439.0,INSEED - Food Security
+Période projetée,Kanem,Number,2016,105332.0,INSEED - Food Security
+Période projetée,Kanem,Number,2016,77260.0,INSEED - Food Security
+Période projetée,Kanem,Number,2017,92098.0,INSEED - Food Security
+Période projetée,Kanem,Number,2017,50489.0,INSEED - Food Security
+Période projetée,Kanem,Number,2018,112871.0,INSEED - Food Security
+Période projetée,Kanem,Number,2018,37937.0,INSEED - Food Security
+Période projetée,Kanem,Number,2019,35326.0,INSEED - Food Security
+Période projetée,Kanem,Number,2019,69871.0,INSEED - Food Security
+Période projetée,Kanem,Number,2020,108694.0,INSEED - Food Security
+Période projetée,Kanem,Number,2020,95074.0,INSEED - Food Security
+Période projetée,Kanem,Number,2021,110376.0,INSEED - Food Security
+Période projetée,Kanem,Number,2021,151183.0,INSEED - Food Security
+Période projetée,Kanem,Number,2022,133891.0,INSEED - Food Security
+Période projetée,Kanem,Number,2022,98903.0,INSEED - Food Security
+Période projetée,Kanem,Number,2023,120022.0,INSEED - Food Security
+Période projetée,Kanem,Number,2023,156436.0,INSEED - Food Security
+Période projetée,Kanem,Number,2024,201975.0,INSEED - Food Security
+Période projetée,Lac,Number,2016,133615.0,INSEED - Food Security
+Période projetée,Lac,Number,2016,136066.0,INSEED - Food Security
+Période projetée,Lac,Number,2017,123275.0,INSEED - Food Security
+Période projetée,Lac,Number,2017,59472.0,INSEED - Food Security
+Période projetée,Lac,Number,2018,159245.0,INSEED - Food Security
+Période projetée,Lac,Number,2018,136744.0,INSEED - Food Security
+Période projetée,Lac,Number,2019,145089.0,INSEED - Food Security
+Période projetée,Lac,Number,2019,43164.0,INSEED - Food Security
+Période projetée,Lac,Number,2020,110372.0,INSEED - Food Security
+Période projetée,Lac,Number,2020,157842.0,INSEED - Food Security
+Période projetée,Lac,Number,2021,168160.0,INSEED - Food Security
+Période projetée,Lac,Number,2021,198586.0,INSEED - Food Security
+Période projetée,Lac,Number,2022,153515.0,INSEED - Food Security
+Période projetée,Lac,Number,2022,165111.0,INSEED - Food Security
+Période projetée,Lac,Number,2023,160203.0,INSEED - Food Security
+Période projetée,Lac,Number,2023,230486.0,INSEED - Food Security
+Période projetée,Lac,Number,2024,327203.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2016,32771.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2016,17221.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2017,0.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2017,0.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2018,0.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2018,16185.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2019,26184.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2019,24389.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2020,27709.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2020,85784.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2021,112514.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2021,113061.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2022,140271.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2022,101026.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2023,115400.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2023,177757.0,INSEED - Food Security
+Période projetée,Logone Occidental,Number,2024,139196.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2016,92344.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2016,34632.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2017,0.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2017,2204.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2018,5977.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2018,66469.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2019,53945.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2019,11805.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2020,42783.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2020,90233.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2021,133415.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2021,102049.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2022,106893.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2022,128268.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2023,165662.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2023,193762.0,INSEED - Food Security
+Période projetée,Logone Oriental,Number,2024,224889.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2016,81196.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2016,27693.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2017,0.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2017,10552.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2018,2984.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2018,8928.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2019,27673.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2019,7537.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2020,9242.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2020,29827.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2021,51370.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2021,35916.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2022,23855.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2022,39836.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2023,71037.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2023,105432.0,INSEED - Food Security
+Période projetée,Mandoul,Number,2024,183393.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2016,52789.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2016,15146.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2017,0.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2017,0.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2018,0.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2018,17620.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2019,41822.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2019,20833.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2020,37464.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2020,52129.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2021,84397.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2021,65620.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2022,83121.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2022,110740.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2023,62824.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2023,174346.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Est,Number,2024,160068.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2016,42904.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2016,0.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2017,0.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2017,0.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2018,0.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2018,0.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2019,12782.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2019,21168.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2020,9114.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2020,22688.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2021,43833.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2021,19862.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2022,45311.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2022,29778.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2023,30024.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2023,63622.0,INSEED - Food Security
+Période projetée,Mayo-Kébbi-Ouest,Number,2024,31433.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2016,56370.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2016,19676.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2017,6043.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2017,0.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2018,17621.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2018,27890.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2019,22236.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2019,13542.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2020,51326.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2020,29247.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2021,70395.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2021,35442.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2022,35413.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2022,83049.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2023,115779.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2023,99931.0,INSEED - Food Security
+Période projetée,Moyen-Chari,Number,2024,100979.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2016,39822.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2016,161285.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2017,205594.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2017,31595.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2018,114053.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2018,20502.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2019,14923.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2019,82209.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2020,73015.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2020,58565.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2021,97308.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2021,128218.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2022,262258.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2022,114148.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2023,193646.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2023,292779.0,INSEED - Food Security
+Période projetée,Ouaddaï,Number,2024,337255.0,INSEED - Food Security
+Période projetée,Salamat,Number,2016,14586.0,INSEED - Food Security
+Période projetée,Salamat,Number,2016,23121.0,INSEED - Food Security
+Période projetée,Salamat,Number,2017,2206.0,INSEED - Food Security
+Période projetée,Salamat,Number,2017,0.0,INSEED - Food Security
+Période projetée,Salamat,Number,2018,761.0,INSEED - Food Security
+Période projetée,Salamat,Number,2018,4597.0,INSEED - Food Security
+Période projetée,Salamat,Number,2019,7975.0,INSEED - Food Security
+Période projetée,Salamat,Number,2019,5362.0,INSEED - Food Security
+Période projetée,Salamat,Number,2020,26495.0,INSEED - Food Security
+Période projetée,Salamat,Number,2020,22635.0,INSEED - Food Security
+Période projetée,Salamat,Number,2021,41808.0,INSEED - Food Security
+Période projetée,Salamat,Number,2021,95735.0,INSEED - Food Security
+Période projetée,Salamat,Number,2022,59534.0,INSEED - Food Security
+Période projetée,Salamat,Number,2022,26961.0,INSEED - Food Security
+Période projetée,Salamat,Number,2023,37916.0,INSEED - Food Security
+Période projetée,Salamat,Number,2023,68671.0,INSEED - Food Security
+Période projetée,Salamat,Number,2024,73486.0,INSEED - Food Security
+Période projetée,Sila,Number,2016,30061.0,INSEED - Food Security
+Période projetée,Sila,Number,2016,42212.0,INSEED - Food Security
+Période projetée,Sila,Number,2017,85239.0,INSEED - Food Security
+Période projetée,Sila,Number,2017,0.0,INSEED - Food Security
+Période projetée,Sila,Number,2018,6441.0,INSEED - Food Security
+Période projetée,Sila,Number,2018,1159.0,INSEED - Food Security
+Période projetée,Sila,Number,2019,2318.0,INSEED - Food Security
+Période projetée,Sila,Number,2019,9003.0,INSEED - Food Security
+Période projetée,Sila,Number,2020,52214.0,INSEED - Food Security
+Période projetée,Sila,Number,2020,40224.0,INSEED - Food Security
+Période projetée,Sila,Number,2021,61037.0,INSEED - Food Security
+Période projetée,Sila,Number,2021,40766.0,INSEED - Food Security
+Période projetée,Sila,Number,2022,107330.0,INSEED - Food Security
+Période projetée,Sila,Number,2022,61211.0,INSEED - Food Security
+Période projetée,Sila,Number,2023,65749.0,INSEED - Food Security
+Période projetée,Sila,Number,2023,166041.0,INSEED - Food Security
+Période projetée,Sila,Number,2024,186991.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2016,1052437.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2016,1050452.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2017,897410.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2017,362015.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2018,990707.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2018,519124.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2019,640874.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2019,524158.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2020,1002653.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2020,1148996.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2021,1778632.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2021,1737249.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2022,2098864.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2022,1512769.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2023,1864301.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2023,2878501.0,INSEED - Food Security
+Période projetée,TCHAD,Number,2024,3364452.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2016,48775.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2016,19902.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2017,10136.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2017,10491.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2018,0.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2018,23356.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2019,29677.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2019,11240.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2020,29081.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2020,50154.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2021,53728.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2021,95414.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2022,106021.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2022,111662.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2023,74290.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2023,137184.0,INSEED - Food Security
+Période projetée,Tandjilé,Number,2024,162676.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2017,0.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2017,198.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2018,0.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2018,9623.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2019,8238.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2019,3387.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2020,8038.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2020,10121.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2021,8153.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2021,8322.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2022,9194.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2022,4914.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2023,2798.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2023,9053.0,INSEED - Food Security
+Période projetée,Tibesti,Number,2024,9296.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2016,78419.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2016,119468.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2017,143786.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2017,53399.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2018,186444.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2018,38252.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2019,26066.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2019,22387.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2020,30672.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2020,152428.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2021,175013.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2021,180935.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2022,189155.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2022,69128.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2023,161063.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2023,197281.0,INSEED - Food Security
+Période projetée,Wadi Fira,Number,2024,223781.0,INSEED - Food Security
+Changes in inventories,TCHAD,Francs CFA,2005,-136973000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2006,-111084000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2006,-242978000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2007,-53827000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2007,-250770000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2008,98119000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2008,-177041000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2009,133127000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2009,-236180000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2010,511084000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2010,-25230000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2011,954223000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2011,-256311000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2012,1267941000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2012,88334000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2013,1099963000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2013,65581000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2014,1631922000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2014,496080000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2015,961394000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2015,131908000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2016,408057000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2016,285828000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2017,427689000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2017,62121000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2018,857528000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2018,364677000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2019,1112281000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2019,359105000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2020,949493000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2020,369962000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2021,857262000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2021,312868000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2022,989434000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2022,343089000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2005,2035146000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2006,2271279000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2006,1992550000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2007,2260612000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2007,2200994000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2008,2392252000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2008,2036776000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2009,1904538000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2009,2312085000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2010,2395555000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2010,1998494000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2011,2568249000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2011,2494556000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2012,3050904000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2012,2917212000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2013,2660470000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2013,2745728000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2014,2073003000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2014,2190565000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2015,2402308000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2015,2957103000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2016,1745213000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2016,2060451000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2017,1797166000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2017,1683123000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2018,2200251000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2018,1923384000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2019,2180572000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2019,2491487000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2020,1829640000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2020,2181988000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2021,2459072000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2021,1762737000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2022,3529194000000.0,INSEED - GDP Expenditure
+Exports,TCHAD,Francs CFA,2022,2603306000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2005,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2006,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2006,1114848000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2007,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2007,1155764000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2008,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2008,1249602000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2009,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2009,1344114000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2010,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2010,1541513000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2011,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2011,1835106000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2012,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2012,2064168000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2013,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2013,2209508000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2014,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2014,2204744000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2015,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2015,1961063000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2016,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2016,1269776000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2017,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2017,1227173000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2018,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2018,1453637000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2019,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2019,1523944000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2020,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2020,1535481000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2021,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2021,1558264000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2022,1009126000000.0,INSEED - GDP Expenditure
+F.B.C.,TCHAD,Francs CFA,2022,1572819000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2005,3161999000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2006,3541964000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2006,3342830000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2007,3629934000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2007,3855788000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2008,4201556000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2008,3919172000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2009,4598819000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2009,4281604000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2010,5077931000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2010,5122930000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2011,5287738000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2011,5169542000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2012,5724197000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2012,5365988000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2013,5940554000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2013,5915685000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2014,5828119000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2014,5752017000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2015,6008446000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2015,5907944000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2016,6205162000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2016,6336463000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2017,6075568000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2017,6284176000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2018,6225168000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2018,6243468000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2019,6327265000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2019,6441820000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2020,6470586000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2020,6244361000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2021,6683113000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2021,6635868000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2022,7400403000000.0,INSEED - GDP Expenditure
+Final consumption,TCHAD,Francs CFA,2022,6982821000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2006,4540090000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2007,5293529000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2008,5362191000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2009,5890068000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2010,6591987000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2011,7272819000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2012,8574756000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2013,9391442000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2014,9005704000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2015,9255518000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2016,8252309000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2017,7593780000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2018,8196217000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2019,8972082000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2020,8697597000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2021,8620435000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2022,9740554000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2005,4563892000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2006,5072558000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2007,5200540000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2008,5969975000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2009,5792893000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2010,6956068000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2011,7862948000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2012,9134991000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2013,8823673000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2014,8958899000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2015,8607806000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2016,7719452000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2017,7751211000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2018,8513328000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2019,8733307000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2020,8595167000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2021,9356007000000.0,INSEED - GDP Expenditure
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2022,11120705000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2006,4540090000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2007,5293529000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2008,5362191000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2009,5890068000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2010,6591987000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2011,7272819000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2012,8574756000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2013,9391442000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2014,9005704000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2015,9255518000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2016,8252309000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2017,7593780000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2018,8196217000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2019,8972082000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2020,8697597000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2021,8620435000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2022,9740554000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2005,4563892000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2006,5072558000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2007,5200540000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2008,5969975000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2009,5792893000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2010,6956068000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2011,7862948000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2012,9134991000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2013,8823673000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2014,8958899000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2015,8607806000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2016,7719452000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2017,7751211000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2018,8513328000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2019,8733307000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2020,8595167000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2021,9356007000000.0,INSEED - GDP Expenditure
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2022,11120705000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2005,357239000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2006,425566000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2006,426699000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2007,548724000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2007,527667000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2008,648422000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2008,618833000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2009,711294000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2009,681504000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2010,760790000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2010,741810000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2011,945277000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2011,863855000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2012,1049503000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2012,984833000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2013,1004814000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2013,981295000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2014,780567000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2014,709652000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2015,602446000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2015,554476000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2016,836112000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2016,789649000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2017,741646000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2017,785669000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2018,694279000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2018,695347000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2019,741340000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2019,690284000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2020,828328000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2020,756059000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2021,873433000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2021,861763000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2022,979197000000.0,INSEED - GDP Expenditure
+General government,TCHAD,Francs CFA,2022,934779000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2005,2765187000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2006,3082445000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2006,2883502000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2007,3040885000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2007,3290763000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2008,3510115000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2008,3258947000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2009,3844069000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2009,3557011000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2010,4280717000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2010,4347086000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2011,4304287000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2011,4268203000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2012,4632329000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2012,4341898000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2013,4892514000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2013,4891360000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2014,5002656000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2014,4998027000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2015,5357101000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2015,5305315000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2016,5320179000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2016,5496687000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2017,5284104000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2017,5448078000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2018,5487513000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2018,5498303000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2019,5543445000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2019,5706598000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2020,5597369000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2020,5444293000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2021,5763547000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2021,5727600000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2022,6370640000000.0,INSEED - GDP Expenditure
+Households,TCHAD,Francs CFA,2022,6000248000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2005,1505406000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2006,1638728000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2006,1667160000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2007,1645305000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2007,1668248000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2008,1731077000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2008,1666318000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2009,1852718000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2009,1811555000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2010,2037628000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2010,2045720000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2011,1956387000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2011,1970073000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2012,1917178000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2012,1860948000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2013,1886441000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2013,1545061000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2014,1583270000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2014,1637701000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2015,1773468000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2015,1702500000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2016,1648105000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2016,1700208000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2017,1558338000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2017,1662812000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2018,1778745000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2018,1788949000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2019,1895937000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2019,1844274000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2020,1663678000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2020,1634195000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2021,1652566000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2021,1649302000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2022,1807452000000.0,INSEED - GDP Expenditure
+Imports,TCHAD,Francs CFA,2022,1761481000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2005,39573000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2006,33954000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2006,32629000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2007,40325000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2007,37358000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2008,43019000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2008,41391000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2009,43456000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2009,43089000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2010,36424000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2010,34034000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2011,38174000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2011,37484000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2012,42366000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2012,39257000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2013,43227000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2013,43030000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2014,44896000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2014,44337000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2015,48900000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2015,48153000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2016,48871000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2016,50127000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2017,49818000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2017,50429000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2018,43376000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2018,49818000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2019,42480000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2019,44938000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2020,44889000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2020,44009000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2021,46133000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2021,46505000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2022,50566000000.0,INSEED - GDP Expenditure
+NPISH,TCHAD,Francs CFA,2022,47794000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2005,71765000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2006,71229000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2006,73622000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2007,91424000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2007,97543000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2008,98571000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2008,98805000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2009,109572000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2009,115664000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2010,162524000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2010,160388000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2011,192582000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2011,193477000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2012,181284000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2012,201598000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2013,223900000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2013,219763000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2014,229759000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2014,221635000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2015,168552000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2015,251068000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2016,148944000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2016,163594000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2017,207067000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2017,148706000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2018,219983000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2018,223902000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2019,224562000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2019,223377000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2020,283675000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2020,278420000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2021,301895000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2021,290649000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2022,373718000000.0,INSEED - GDP Expenditure
+Net taxes on products,TCHAD,Francs CFA,2022,361708000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2005,1336398000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2006,1629993000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2006,1364964000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2007,1526432000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2007,1735365000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2008,1734728000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2008,1549810000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2009,1920732000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2009,1714050000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2010,2312959000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2010,2395795000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2011,2135288000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2011,2135348000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2012,2474157000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2012,2374838000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2013,2798239000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2013,2692767000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2014,2792382000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2014,2762408000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2015,2894032000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2015,2934856000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2016,3039273000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2016,3199348000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2017,2978797000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2017,3071726000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2018,3202556000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2018,3097715000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2019,3282882000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2019,3358425000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2020,3497156000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2020,3371743000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2021,3503085000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2021,3509696000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2022,3917600000000.0,INSEED - GDP Expenditure
+Primary,TCHAD,Francs CFA,2022,3646631000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2005,1823936000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2006,2001587000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2006,1772832000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2007,2133496000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2007,1985414000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2008,2520614000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2008,2157715000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2009,2021869000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2009,2412197000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2010,2638340000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2010,2215508000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2011,3229689000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2011,2830831000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2012,3964850000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2012,3649699000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2013,3394869000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2013,3865056000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2014,3324597000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2014,3451362000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2015,2919620000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2015,3504283000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2016,1956497000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2016,2293159000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2017,2050861000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2017,1810179000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2018,2469418000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2018,2203387000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2019,2511615000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2019,2663640000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2020,2054503000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2020,2412717000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2021,2676740000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2021,1995635000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2022,3676906000000.0,INSEED - GDP Expenditure
+Secondary,TCHAD,Francs CFA,2022,2740515000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2005,1331792000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2006,1369749000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2006,1328672000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2007,1449188000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2007,1475207000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2008,1616062000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2008,1555862000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2009,1740721000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2009,1648158000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2010,1842246000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2010,1820295000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2011,2305389000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2011,2113164000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2012,2514699000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2012,2348620000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2013,2406665000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2013,2613856000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2014,2612161000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2014,2570298000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2015,2625601000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2015,2565312000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2016,2574739000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2016,2596208000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2017,2514486000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2017,2563169000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2018,2621371000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2018,2671213000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2019,2714248000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2019,2726640000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2020,2759833000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2020,2634717000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2021,2874287000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2021,2824455000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2022,3152481000000.0,INSEED - GDP Expenditure
+Tertiary,TCHAD,Francs CFA,2022,2991700000000.0,INSEED - GDP Expenditure
+Changes in inventories,TCHAD,Francs CFA,2005,-136973000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2006,-111084000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2006,-242978000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2007,-53827000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2007,-250770000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2008,98119000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2008,-177041000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2009,133127000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2009,-236180000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2010,511084000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2010,-25230000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2011,954223000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2011,-256311000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2012,1267941000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2012,88334000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2013,1099963000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2013,65581000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2014,1631922000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2014,496080000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2015,961394000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2015,131908000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2016,408057000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2016,285828000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2017,427689000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2017,62121000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2018,857528000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2018,364677000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2019,1112281000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2019,359105000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2020,949493000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2020,369962000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2021,857262000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2021,312868000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2022,989434000000.0,INSEED - GDP Production
+Changes in inventories,TCHAD,Francs CFA,2022,343089000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2005,2035146000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2006,2271279000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2006,1992550000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2007,2260612000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2007,2200994000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2008,2392252000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2008,2036776000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2009,1904538000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2009,2312085000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2010,2395555000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2010,1998494000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2011,2568249000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2011,2494556000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2012,3050904000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2012,2917212000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2013,2660470000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2013,2745728000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2014,2073003000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2014,2190565000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2015,2402308000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2015,2957103000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2016,1745213000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2016,2060451000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2017,1797166000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2017,1683123000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2018,2200251000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2018,1923384000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2019,2180572000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2019,2491487000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2020,1829640000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2020,2181988000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2021,2459072000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2021,1762737000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2022,3529194000000.0,INSEED - GDP Production
+Exports,TCHAD,Francs CFA,2022,2603306000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2005,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2006,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2006,1114848000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2007,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2007,1155764000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2008,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2008,1249602000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2009,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2009,1344114000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2010,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2010,1541513000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2011,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2011,1835106000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2012,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2012,2064168000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2013,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2013,2209508000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2014,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2014,2204744000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2015,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2015,1961063000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2016,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2016,1269776000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2017,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2017,1227173000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2018,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2018,1453637000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2019,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2019,1523944000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2020,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2020,1535481000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2021,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2021,1558264000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2022,1009126000000.0,INSEED - GDP Production
+F.B.C.,TCHAD,Francs CFA,2022,1572819000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2005,3161999000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2006,3541964000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2006,3342830000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2007,3629934000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2007,3855788000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2008,4201556000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2008,3919172000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2009,4598819000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2009,4281604000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2010,5077931000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2010,5122930000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2011,5287738000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2011,5169542000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2012,5724197000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2012,5365988000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2013,5940554000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2013,5915685000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2014,5828119000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2014,5752017000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2015,6008446000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2015,5907944000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2016,6205162000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2016,6336463000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2017,6075568000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2017,6284176000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2018,6225168000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2018,6243468000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2019,6327265000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2019,6441820000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2020,6470586000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2020,6244361000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2021,6683113000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2021,6635868000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2022,7400403000000.0,INSEED - GDP Production
+Final consumption,TCHAD,Francs CFA,2022,6982821000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2006,4540090000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2007,5293529000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2008,5362191000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2009,5890068000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2010,6591987000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2011,7272819000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2012,8574756000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2013,9391442000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2014,9005704000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2015,9255518000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2016,8252309000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2017,7593780000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2018,8196217000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2019,8972082000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2020,8697597000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2021,8620435000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, constant prices (N-1)",TCHAD,Francs CFA,2022,9740554000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2005,4563892000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2006,5072558000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2007,5200540000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2008,5969975000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2009,5792893000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2010,6956068000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2011,7862948000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2012,9134991000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2013,8823673000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2014,8958899000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2015,8607806000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2016,7719452000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2017,7751211000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2018,8513328000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2019,8733307000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2020,8595167000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2021,9356007000000.0,INSEED - GDP Production
+"GDP, Expenditure approach, current prices",TCHAD,Francs CFA,2022,11120705000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2006,4540090000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2007,5293529000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2008,5362191000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2009,5890068000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2010,6591987000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2011,7272819000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2012,8574756000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2013,9391442000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2014,9005704000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2015,9255518000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2016,8252309000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2017,7593780000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2018,8196217000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2019,8972082000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2020,8697597000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2021,8620435000000.0,INSEED - GDP Production
+"GDP, Production approach, constant prices (N-1)",TCHAD,Francs CFA,2022,9740554000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2005,4563892000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2006,5072558000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2007,5200540000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2008,5969975000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2009,5792893000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2010,6956068000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2011,7862948000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2012,9134991000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2013,8823673000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2014,8958899000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2015,8607806000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2016,7719452000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2017,7751211000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2018,8513328000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2019,8733307000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2020,8595167000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2021,9356007000000.0,INSEED - GDP Production
+"GDP, Production approach, current prices",TCHAD,Francs CFA,2022,11120705000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2005,357239000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2006,425566000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2006,426699000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2007,548724000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2007,527667000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2008,648422000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2008,618833000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2009,711294000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2009,681504000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2010,760790000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2010,741810000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2011,945277000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2011,863855000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2012,1049503000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2012,984833000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2013,1004814000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2013,981295000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2014,780567000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2014,709652000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2015,602446000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2015,554476000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2016,836112000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2016,789649000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2017,741646000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2017,785669000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2018,694279000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2018,695347000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2019,741340000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2019,690284000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2020,828328000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2020,756059000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2021,873433000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2021,861763000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2022,979197000000.0,INSEED - GDP Production
+General government,TCHAD,Francs CFA,2022,934779000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2005,2765187000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2006,3082445000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2006,2883502000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2007,3040885000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2007,3290763000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2008,3510115000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2008,3258947000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2009,3844069000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2009,3557011000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2010,4280717000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2010,4347086000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2011,4304287000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2011,4268203000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2012,4632329000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2012,4341898000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2013,4892514000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2013,4891360000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2014,5002656000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2014,4998027000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2015,5357101000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2015,5305315000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2016,5320179000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2016,5496687000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2017,5284104000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2017,5448078000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2018,5487513000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2018,5498303000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2019,5543445000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2019,5706598000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2020,5597369000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2020,5444293000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2021,5763547000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2021,5727600000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2022,6370640000000.0,INSEED - GDP Production
+Households,TCHAD,Francs CFA,2022,6000248000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2005,1505406000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2006,1638728000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2006,1667160000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2007,1645305000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2007,1668248000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2008,1731077000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2008,1666318000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2009,1852718000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2009,1811555000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2010,2037628000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2010,2045720000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2011,1956387000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2011,1970073000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2012,1917178000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2012,1860948000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2013,1886441000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2013,1545061000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2014,1583270000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2014,1637701000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2015,1773468000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2015,1702500000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2016,1648105000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2016,1700208000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2017,1558338000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2017,1662812000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2018,1778745000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2018,1788949000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2019,1895937000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2019,1844274000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2020,1663678000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2020,1634195000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2021,1652566000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2021,1649302000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2022,1807452000000.0,INSEED - GDP Production
+Imports,TCHAD,Francs CFA,2022,1761481000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2005,39573000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2006,33954000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2006,32629000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2007,40325000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2007,37358000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2008,43019000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2008,41391000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2009,43456000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2009,43089000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2010,36424000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2010,34034000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2011,38174000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2011,37484000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2012,42366000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2012,39257000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2013,43227000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2013,43030000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2014,44896000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2014,44337000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2015,48900000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2015,48153000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2016,48871000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2016,50127000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2017,49818000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2017,50429000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2018,43376000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2018,49818000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2019,42480000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2019,44938000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2020,44889000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2020,44009000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2021,46133000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2021,46505000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2022,50566000000.0,INSEED - GDP Production
+NPISH,TCHAD,Francs CFA,2022,47794000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2005,71765000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2006,71229000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2006,73622000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2007,91424000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2007,97543000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2008,98571000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2008,98805000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2009,109572000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2009,115664000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2010,162524000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2010,160388000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2011,192582000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2011,193477000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2012,181284000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2012,201598000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2013,223900000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2013,219763000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2014,229759000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2014,221635000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2015,168552000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2015,251068000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2016,148944000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2016,163594000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2017,207067000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2017,148706000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2018,219983000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2018,223902000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2019,224562000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2019,223377000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2020,283675000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2020,278420000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2021,301895000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2021,290649000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2022,373718000000.0,INSEED - GDP Production
+Net taxes on products,TCHAD,Francs CFA,2022,361708000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2005,1336398000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2006,1629993000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2006,1364964000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2007,1526432000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2007,1735365000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2008,1734728000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2008,1549810000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2009,1920732000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2009,1714050000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2010,2312959000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2010,2395795000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2011,2135288000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2011,2135348000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2012,2474157000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2012,2374838000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2013,2798239000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2013,2692767000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2014,2792382000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2014,2762408000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2015,2894032000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2015,2934856000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2016,3039273000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2016,3199348000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2017,2978797000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2017,3071726000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2018,3202556000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2018,3097715000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2019,3282882000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2019,3358425000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2020,3497156000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2020,3371743000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2021,3503085000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2021,3509696000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2022,3917600000000.0,INSEED - GDP Production
+Primary,TCHAD,Francs CFA,2022,3646631000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2005,1823936000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2006,2001587000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2006,1772832000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2007,2133496000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2007,1985414000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2008,2520614000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2008,2157715000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2009,2021869000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2009,2412197000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2010,2638340000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2010,2215508000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2011,3229689000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2011,2830831000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2012,3964850000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2012,3649699000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2013,3394869000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2013,3865056000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2014,3324597000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2014,3451362000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2015,2919620000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2015,3504283000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2016,1956497000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2016,2293159000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2017,2050861000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2017,1810179000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2018,2469418000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2018,2203387000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2019,2511615000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2019,2663640000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2020,2054503000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2020,2412717000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2021,2676740000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2021,1995635000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2022,3676906000000.0,INSEED - GDP Production
+Secondary,TCHAD,Francs CFA,2022,2740515000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2005,1331792000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2006,1369749000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2006,1328672000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2007,1449188000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2007,1475207000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2008,1616062000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2008,1555862000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2009,1740721000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2009,1648158000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2010,1842246000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2010,1820295000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2011,2305389000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2011,2113164000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2012,2514699000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2012,2348620000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2013,2406665000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2013,2613856000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2014,2612161000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2014,2570298000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2015,2625601000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2015,2565312000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2016,2574739000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2016,2596208000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2017,2514486000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2017,2563169000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2018,2621371000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2018,2671213000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2019,2714248000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2019,2726640000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2020,2759833000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2020,2634717000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2021,2874287000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2021,2824455000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2022,3152481000000.0,INSEED - GDP Production
+Tertiary,TCHAD,Francs CFA,2022,2991700000000.0,INSEED - GDP Production
+Couverture vaccinale contre l’hépatite B,TCHAD,Percent,2010,0.111,INSEED - Health & Nutrition
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,1996,0.391,INSEED - Health & Nutrition
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,2000,0.207,INSEED - Health & Nutrition
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,2004,0.2,INSEED - Health & Nutrition
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,2010,0.155,INSEED - Health & Nutrition
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,2014,58.3,INSEED - Health & Nutrition
+Couverture vaccinale de la fièvre jaune,TCHAD,Percent,1996,0.247,INSEED - Health & Nutrition
+Couverture vaccinale de la fièvre jaune,TCHAD,Percent,2000,0.309,INSEED - Health & Nutrition
+Couverture vaccinale de la fièvre jaune,TCHAD,Percent,2010,0.255,INSEED - Health & Nutrition
+Couverture vaccinale de la fièvre jaune,TCHAD,Percent,2014,43.5,INSEED - Health & Nutrition
+Couverture vaccinale de la polio,TCHAD,Percent,1996,0.534,INSEED - Health & Nutrition
+Couverture vaccinale de la polio,TCHAD,Percent,2000,0.505,INSEED - Health & Nutrition
+Couverture vaccinale de la polio,TCHAD,Percent,2004,0.36,INSEED - Health & Nutrition
+Couverture vaccinale de la polio,TCHAD,Percent,2010,0.25,INSEED - Health & Nutrition
+Couverture vaccinale de la polio,TCHAD,Percent,2014,76.3,INSEED - Health & Nutrition
+Couverture vaccinale de la rougeole,TCHAD,Percent,1996,0.228,INSEED - Health & Nutrition
+Couverture vaccinale de la rougeole,TCHAD,Percent,2000,0.297,INSEED - Health & Nutrition
+Couverture vaccinale de la rougeole,TCHAD,Percent,2004,0.23,INSEED - Health & Nutrition
+Couverture vaccinale de la rougeole,TCHAD,Percent,2010,0.36,INSEED - Health & Nutrition
+Couverture vaccinale de la rougeole,TCHAD,Percent,2014,0.569,INSEED - Health & Nutrition
+Couverture vaccinale du BCG,TCHAD,Percent,1996,0.388,INSEED - Health & Nutrition
+Couverture vaccinale du BCG,TCHAD,Percent,2000,0.454,INSEED - Health & Nutrition
+Couverture vaccinale du BCG,TCHAD,Percent,2004,0.4,INSEED - Health & Nutrition
+Couverture vaccinale du BCG,TCHAD,Percent,2010,0.438,INSEED - Health & Nutrition
+Couverture vaccinale du BCG,TCHAD,Percent,2014,59.6,INSEED - Health & Nutrition
+NUTRITION,TCHAD,,2018,0.6,INSEED - Health & Nutrition
+Naissances enregistrées (pour 1 000),TCHAD,Number,2010,15.7,INSEED - Health & Nutrition
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,1996,0.24,INSEED - Health & Nutrition
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2000,0.162,INSEED - Health & Nutrition
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2004,0.21,INSEED - Health & Nutrition
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2010,0.227,INSEED - Health & Nutrition
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2014,0.243,INSEED - Health & Nutrition
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2018,0.472,INSEED - Health & Nutrition
+Pourcentage d'enfants complètement vaccinés,TCHAD,Percent,1996,0.111,INSEED - Health & Nutrition
+Pourcentage d'enfants complètement vaccinés,TCHAD,Percent,2014,22.9,INSEED - Health & Nutrition
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,1996,0.16,INSEED - Health & Nutrition
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,2000,0.416,INSEED - Health & Nutrition
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,2004,0.43,INSEED - Health & Nutrition
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,2010,0.532,INSEED - Health & Nutrition
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,2014,63.7,INSEED - Health & Nutrition
+Protection des enfants contre le tétanos néonatal,TCHAD,Percent,2000,0.385,INSEED - Health & Nutrition
+Protection des enfants contre le tétanos néonatal,TCHAD,Percent,2004,0.29,INSEED - Health & Nutrition
+Protection des enfants contre le tétanos néonatal,TCHAD,Percent,2010,0.431,INSEED - Health & Nutrition
+Protection des enfants contre le tétanos néonatal,TCHAD,Percent,2014,0.56,INSEED - Health & Nutrition
+Prévalence de l'obésité,TCHAD,Percent,2018,2.3,INSEED - Health & Nutrition
+Prévalence de l'émaciation,TCHAD,Percent,1996,14.0,INSEED - Health & Nutrition
+Prévalence de l'émaciation,TCHAD,Percent,2000,0.117,INSEED - Health & Nutrition
+Prévalence de l'émaciation,TCHAD,Percent,2004,0.14,INSEED - Health & Nutrition
+Prévalence de l'émaciation,TCHAD,Percent,2010,15.7,INSEED - Health & Nutrition
+Prévalence de l'émaciation,TCHAD,Percent,2014,13.0,INSEED - Health & Nutrition
+Prévalence de l'émaciation,TCHAD,Percent,2018,13.9,INSEED - Health & Nutrition
+Prévalence de la sous-alimentation,TCHAD,Percent,1996,39.0,INSEED - Health & Nutrition
+Prévalence de la sous-alimentation,TCHAD,Percent,2000,0.276,INSEED - Health & Nutrition
+Prévalence de la sous-alimentation,TCHAD,Percent,2004,37.0,INSEED - Health & Nutrition
+Prévalence de la sous-alimentation,TCHAD,Percent,2010,30.3,INSEED - Health & Nutrition
+Prévalence de la sous-alimentation,TCHAD,Percent,2014,28.8,INSEED - Health & Nutrition
+Prévalence de la sous-alimentation,TCHAD,Percent,2018,29.2,INSEED - Health & Nutrition
+Prévalence des maladies,TCHAD,Percent,1996,0.0,INSEED - Health & Nutrition
+Prévalence du retard de croissance,TCHAD,Percent,1996,40.0,INSEED - Health & Nutrition
+Prévalence du retard de croissance,TCHAD,Percent,2000,0.283,INSEED - Health & Nutrition
+Prévalence du retard de croissance,TCHAD,Percent,2004,0.41,INSEED - Health & Nutrition
+Prévalence du retard de croissance,TCHAD,Percent,2010,38.7,INSEED - Health & Nutrition
+Prévalence du retard de croissance,TCHAD,Percent,2014,40.0,INSEED - Health & Nutrition
+Prévalence du retard de croissance,TCHAD,Percent,2018,37.8,INSEED - Health & Nutrition
+Quotient de mortalité infanto juvénile (pour 1.000 NV) enfants de 0 à 5 ans,TCHAD,Number,2014,133.0,INSEED - Health & Nutrition
+Quotient de mortalité néonatale (pour 1.000 NV),TCHAD,Number,2014,34.0,INSEED - Health & Nutrition
+Quotient de mortalité néonatale (pour 1.000 NV),TCHAD,Number,2018,2018.0,INSEED - Health & Nutrition
+Taux d'insuffisance pondérale modérée 6 à 59 mois (%),TCHAD,Percent,2014,15.5,INSEED - Health & Nutrition
+Taux d'insuffisance pondérale sévère 6 à 59 mois (%),TCHAD,Percent,2014,6.5,INSEED - Health & Nutrition
+Taux d'insuffisance pondérale sévère 6 à 59 mois (%),TCHAD,Percent,2018,16.0,INSEED - Health & Nutrition
+Taux de couverture en vaccin antirougeoleux (%),TCHAD,Percent,2014,66.1,INSEED - Health & Nutrition
+Taux de malnutrition aiguë modérée (6-59 mois),TCHAD,Percent,2014,8.9,INSEED - Health & Nutrition
+Taux de malnutrition aiguë sévère (6-59 mois),TCHAD,Percent,2014,2.8,INSEED - Health & Nutrition
+Taux de malnutrition chronique sévère (0-59) mois),TCHAD,Percent,2014,11.0,INSEED - Health & Nutrition
+"Taux de malnutrition chronique, modérée (0-59 mois)",TCHAD,Percent,2014,18.0,INSEED - Health & Nutrition
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,1996,194.0,INSEED - Health & Nutrition
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2000,194.0,INSEED - Health & Nutrition
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2004,191.0,INSEED - Health & Nutrition
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2010,175.0,INSEED - Health & Nutrition
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2014,133.0,INSEED - Health & Nutrition
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2018,122.0,INSEED - Health & Nutrition
+Taux de mortalité due au paludisme (parmi toutes les causes de mortalité chez les 0-5 ans),TCHAD,,2014,0.51,INSEED - Health & Nutrition
+Taux de mortalité due au paludisme (parmi toutes les causes de mortalité chez les 0-5 ans),TCHAD,,2018,8.7,INSEED - Health & Nutrition
+Taux de mortalité infantile (%)(0 à 11 mois),TCHAD,Percent,2014,72.0,INSEED - Health & Nutrition
+Taux de mortalité infantile (%)(0 à 11 mois),TCHAD,Percent,2018,0.96,INSEED - Health & Nutrition
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,1996,103.0,INSEED - Health & Nutrition
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2000,105.0,INSEED - Health & Nutrition
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2004,102.0,INSEED - Health & Nutrition
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2010,106.0,INSEED - Health & Nutrition
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2014,72.0,INSEED - Health & Nutrition
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2018,78.0,INSEED - Health & Nutrition
+Taux de mortalité maternelle pour 100 000 naissance,TCHAD,Number,1996,827.0,INSEED - Health & Nutrition
+Taux de mortalité maternelle pour 100 000 naissance,TCHAD,Number,2014,860.0,INSEED - Health & Nutrition
+Taux de natalité chez les adolescentes,TCHAD,Percent,2010,203.4,INSEED - Health & Nutrition
+Taux de natalité chez les adolescentes,TCHAD,Percent,2014,179.4,INSEED - Health & Nutrition
+Taux de natalité chez les adolescentes,TCHAD,Percent,2018,138.0,INSEED - Health & Nutrition
+Taux de prévalence contraceptive,TCHAD,Percent,1996,0.04,INSEED - Health & Nutrition
+Taux de prévalence contraceptive,TCHAD,Percent,2000,0.079,INSEED - Health & Nutrition
+Taux de prévalence contraceptive,TCHAD,Percent,2010,0.048,INSEED - Health & Nutrition
+Taux de prévalence contraceptive,TCHAD,Percent,2014,0.057,INSEED - Health & Nutrition
+Taux de prévalence contraceptive,TCHAD,Percent,2018,0.081,INSEED - Health & Nutrition
+"Exports (not including petrol), value",TCHAD,Francs CFA,2005,93611000000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2006,127884000000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2007,55788000000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2008,40370000000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2009,38016000000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2010,32832000000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2011,45854000000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2012,55269000000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2013,63692000000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2014,32480000000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2015,325384000000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2016,183041000000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2017,100542760000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2018,96241180000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2019,103011000000.0,INSEED - Imports
+"Exports (not including petrol), value",TCHAD,Francs CFA,2020,106542178000.0,INSEED - Imports
+"Exports (not including petrol), volume",TCHAD,tonnes,2005,413453.0,INSEED - Imports
+"Exports (not including petrol), volume",TCHAD,tonnes,2006,347523.0,INSEED - Imports
+"Exports (not including petrol), volume",TCHAD,tonnes,2009,79102.57,INSEED - Imports
+"Exports (not including petrol), volume",TCHAD,tonnes,2010,87718993.0,INSEED - Imports
+"Exports (not including petrol), volume",TCHAD,tonnes,2011,99487.0,INSEED - Imports
+"Exports (not including petrol), volume",TCHAD,tonnes,2012,13747580.0,INSEED - Imports
+"Exports (not including petrol), volume",TCHAD,tonnes,2013,146421.0,INSEED - Imports
+"Exports (not including petrol), volume",TCHAD,tonnes,2014,64076.0,INSEED - Imports
+"Exports (not including petrol), volume",TCHAD,tonnes,2015,221257.0,INSEED - Imports
+"Exports (not including petrol), volume",TCHAD,tonnes,2016,201194.0,INSEED - Imports
+"Exports (not including petrol), volume",TCHAD,tonnes,2017,268547.77,INSEED - Imports
+"Exports (not including petrol), volume",TCHAD,tonnes,2018,299620.48,INSEED - Imports
+"Exports (not including petrol), volume",TCHAD,tonnes,2019,346523.7,INSEED - Imports
+"Exports (not including petrol), volume",TCHAD,tonnes,2020,347703.875,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2004,319426000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2005,431172000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2006,556821000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2007,384488000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2008,374110000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2009,450000000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2010,550546000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2011,579123000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2012,392419000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2013,379135000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2014,550662000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2015,593083000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2016,690157000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2017,410024000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2018,429026000000.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2019,695697848500.0,INSEED - Imports
+"Imports, value",TCHAD,Francs CFA,2020,549419768469.45,INSEED - Imports
+"Imports, volume",TCHAD,tonnes,2004,588363.0,INSEED - Imports
+"Imports, volume",TCHAD,tonnes,2005,722945.0,INSEED - Imports
+"Imports, volume",TCHAD,tonnes,2007,641001.0,INSEED - Imports
+"Imports, volume",TCHAD,tonnes,2010,1059632.0,INSEED - Imports
+"Imports, volume",TCHAD,tonnes,2011,1074715.0,INSEED - Imports
+"Imports, volume",TCHAD,tonnes,2012,736195.0,INSEED - Imports
+"Imports, volume",TCHAD,tonnes,2013,646217.0,INSEED - Imports
+"Imports, volume",TCHAD,tonnes,2014,886832.0,INSEED - Imports
+"Imports, volume",TCHAD,tonnes,2015,892711.0,INSEED - Imports
+"Imports, volume",TCHAD,tonnes,2016,906652.0,INSEED - Imports
+"Imports, volume",TCHAD,tonnes,2017,793349.0,INSEED - Imports
+"Imports, volume",TCHAD,tonnes,2018,811655.0,INSEED - Imports
+"Imports, volume",TCHAD,tonnes,2019,1407922.463,INSEED - Imports
+"Imports, volume",TCHAD,tonnes,2020,1285157.807237,INSEED - Imports
+Commerce intra-africain par groupements économiques,TCHAD,FCFA,2005,0.0,INSEED - Income by Region
+Dette extérieure,TCHAD,FCFA,2005,0.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2005,397640000000.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2006,533804568191.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2007,668265565118.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2008,874378000000.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2009,986900000000.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2010,1279073475222.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2011,1314447793973.2,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2012,1586727427319.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2013,1464452827327.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2014,1528155000000.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2015,1221654612327.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2016,869984000000.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2017,873012495820.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2018,809622801000.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2019,924000000000.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2020,1149716000000.0,INSEED - Income by Region
+Dépenses réelles,TCHAD,FCFA,2021,1204000000000.0,INSEED - Income by Region
+Masse monétaire,TCHAD,FCFA,2010,604000000000.0,INSEED - Income by Region
+Masse monétaire,TCHAD,FCFA,2011,676800000000.0,INSEED - Income by Region
+Masse monétaire,TCHAD,FCFA,2012,774900000000.0,INSEED - Income by Region
+Masse monétaire,TCHAD,FCFA,2013,834100000000.0,INSEED - Income by Region
+Masse monétaire,TCHAD,FCFA,2014,1042900000000.0,INSEED - Income by Region
+Masse monétaire,TCHAD,FCFA,2015,1002400000000.0,INSEED - Income by Region
+Masse monétaire,TCHAD,FCFA,2016,923800000000.0,INSEED - Income by Region
+Masse monétaire,TCHAD,FCFA,2017,895800000000.0,INSEED - Income by Region
+Masse monétaire,TCHAD,FCFA,2018,864100000000.0,INSEED - Income by Region
+Masse monétaire,TCHAD,FCFA,2019,1121300000000.0,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2005,375812243342.0,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2006,636668494023.0,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2007,822836448282.0,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2008,1106492736511.0,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2009,626091624183.0,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2010,839453413061.652,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2011,1618572436510.0,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2012,1494666352648.0,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2013,1300050404270.0,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2014,1099543156091.44,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2015,701766775514.0,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2016,673441761945.0,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2017,838137615057.31,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2018,924820234456.315,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2019,911261119927.687,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2020,1148128386929.34,INSEED - Income by Region
+Revenus réels,TCHAD,FCFA,2021,1079144497277.8,INSEED - Income by Region
+Taux d'intérêt,TCHAD,FCFA,2005,0.0,INSEED - Income by Region
+Autres catégories,TCHAD,Percent,2011,2.6,INSEED - Unemployment
+Autres catégories,TCHAD,Percent,2018,2.2,INSEED - Unemployment
+Autres milieux urbains,TCHAD,Percent,2011,2.4,INSEED - Unemployment
+Autres milieux urbains,TCHAD,Percent,2018,2.0,INSEED - Unemployment
+Catégorie socio professionnelle du chef de ménage,TCHAD,Percent,2011,2.7,INSEED - Unemployment
+Catégorie socio professionnelle du chef de ménage,TCHAD,Percent,2018,2.5,INSEED - Unemployment
+Incidence,TCHAD,Percent,2011,46.7,INSEED - Unemployment
+Incidence,TCHAD,Percent,2018,42.3,INSEED - Unemployment
+Indice GINI,TCHAD,Percent,2018,0.34,INSEED - Unemployment
+Masculin,TCHAD,Percent,2011,3.6,INSEED - Unemployment
+Masculin,TCHAD,Percent,2018,2.1,INSEED - Unemployment
+Moyen pauvre,TCHAD,Number,2011,871476.0,INSEED - Unemployment
+Moyen pauvre,TCHAD,Number,2018,1298238.0,INSEED - Unemployment
+Moyen riche,TCHAD,Number,2011,1962810.0,INSEED - Unemployment
+Moyen riche,TCHAD,Number,2018,2094186.0,INSEED - Unemployment
+Médian,TCHAD,Number,2011,1680843.0,INSEED - Unemployment
+Médian,TCHAD,Number,2018,1651325.0,INSEED - Unemployment
+N'Djaména,TCHAD,Percent,2011,3.3,INSEED - Unemployment
+N'Djaména,TCHAD,Percent,2018,2.5,INSEED - Unemployment
+Plus pauvre,TCHAD,Number,2011,534361.0,INSEED - Unemployment
+Plus pauvre,TCHAD,Number,2018,915333.0,INSEED - Unemployment
+Plus riche,TCHAD,Number,2011,3289419.0,INSEED - Unemployment
+Plus riche,TCHAD,Number,2018,3118199.0,INSEED - Unemployment
+Profondeur,TCHAD,Percent,2011,26.3,INSEED - Unemployment
+Profondeur,TCHAD,Percent,2018,12.6,INSEED - Unemployment
+Rapport de dépendance économique total,TCHAD,Percent,2011,3.6,INSEED - Unemployment
+Rapport de dépendance économique total,TCHAD,Percent,2018,3.3,INSEED - Unemployment
+Rural,TCHAD,Percent,2018,2.2,INSEED - Unemployment
+Sexe du chef de ménage,TCHAD,Percent,2011,2.4,INSEED - Unemployment
+Sexe du chef de ménage,TCHAD,Percent,2018,2.2,INSEED - Unemployment
+Sévérité,TCHAD,Percent,2011,15.9,INSEED - Unemployment
+Sévérité,TCHAD,Percent,2018,5.2,INSEED - Unemployment
+Taux de chômage,TCHAD,Percent,2003,0.226,INSEED - Unemployment
+Taux de chômage,TCHAD,Percent,2011,0.057,INSEED - Unemployment
+Taux de chômage,TCHAD,Percent,2018,0.02,INSEED - Unemployment
+Taux de pauvreté,TCHAD,Percent,2003,0.55,INSEED - Unemployment
+Taux de pauvreté,TCHAD,Percent,2011,0.467,INSEED - Unemployment
+Taux de pauvreté,TCHAD,Percent,2018,0.423,INSEED - Unemployment
+patron/propre compte,TCHAD,Percent,2011,5.5,INSEED - Unemployment
+patron/propre compte,TCHAD,Percent,2018,4.2,INSEED - Unemployment
+salarié,TCHAD,Percent,2011,1.6,INSEED - Unemployment
+salarié,TCHAD,Percent,2018,2.0,INSEED - Unemployment
+Couverture vaccinale contre l’hépatite B,TCHAD,Percent,2010,0.111,INSEED - Vaccination
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,1996,0.391,INSEED - Vaccination
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,2000,0.207,INSEED - Vaccination
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,2004,0.2,INSEED - Vaccination
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,2010,0.155,INSEED - Vaccination
+Couverture vaccinale de la DCTcoq,TCHAD,Percent,2014,58.3,INSEED - Vaccination
+Couverture vaccinale de la fièvre jaune,TCHAD,Percent,1996,0.247,INSEED - Vaccination
+Couverture vaccinale de la fièvre jaune,TCHAD,Percent,2000,0.309,INSEED - Vaccination
+Couverture vaccinale de la fièvre jaune,TCHAD,Percent,2010,0.255,INSEED - Vaccination
+Couverture vaccinale de la fièvre jaune,TCHAD,Percent,2014,43.5,INSEED - Vaccination
+Couverture vaccinale de la polio,TCHAD,Percent,1996,0.534,INSEED - Vaccination
+Couverture vaccinale de la polio,TCHAD,Percent,2000,0.505,INSEED - Vaccination
+Couverture vaccinale de la polio,TCHAD,Percent,2004,0.36,INSEED - Vaccination
+Couverture vaccinale de la polio,TCHAD,Percent,2010,0.25,INSEED - Vaccination
+Couverture vaccinale de la polio,TCHAD,Percent,2014,76.3,INSEED - Vaccination
+Couverture vaccinale de la rougeole,TCHAD,Percent,1996,0.228,INSEED - Vaccination
+Couverture vaccinale de la rougeole,TCHAD,Percent,2000,0.297,INSEED - Vaccination
+Couverture vaccinale de la rougeole,TCHAD,Percent,2004,0.23,INSEED - Vaccination
+Couverture vaccinale de la rougeole,TCHAD,Percent,2010,0.36,INSEED - Vaccination
+Couverture vaccinale de la rougeole,TCHAD,Percent,2014,0.569,INSEED - Vaccination
+Couverture vaccinale du BCG,TCHAD,Percent,1996,0.388,INSEED - Vaccination
+Couverture vaccinale du BCG,TCHAD,Percent,2000,0.454,INSEED - Vaccination
+Couverture vaccinale du BCG,TCHAD,Percent,2004,0.4,INSEED - Vaccination
+Couverture vaccinale du BCG,TCHAD,Percent,2010,0.438,INSEED - Vaccination
+Couverture vaccinale du BCG,TCHAD,Percent,2014,59.6,INSEED - Vaccination
+NUTRITION,TCHAD,,2018,0.6,INSEED - Vaccination
+Naissances enregistrées (pour 1 000),TCHAD,Number,2010,15.7,INSEED - Vaccination
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,1996,0.24,INSEED - Vaccination
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2000,0.162,INSEED - Vaccination
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2004,0.21,INSEED - Vaccination
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2010,0.227,INSEED - Vaccination
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2014,0.243,INSEED - Vaccination
+Pourcentage d'accouchemnts assistés par du personnel de santé,TCHAD,Percent,2018,0.472,INSEED - Vaccination
+Pourcentage d'enfants complètement vaccinés,TCHAD,Percent,1996,0.111,INSEED - Vaccination
+Pourcentage d'enfants complètement vaccinés,TCHAD,Percent,2014,22.9,INSEED - Vaccination
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,1996,0.16,INSEED - Vaccination
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,2000,0.416,INSEED - Vaccination
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,2004,0.43,INSEED - Vaccination
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,2010,0.532,INSEED - Vaccination
+Pourcentage de mèers ayant fourni au mois un soin prénatal (%),TCHAD,Percent,2014,63.7,INSEED - Vaccination
+Protection des enfants contre le tétanos néonatal,TCHAD,Percent,2000,0.385,INSEED - Vaccination
+Protection des enfants contre le tétanos néonatal,TCHAD,Percent,2004,0.29,INSEED - Vaccination
+Protection des enfants contre le tétanos néonatal,TCHAD,Percent,2010,0.431,INSEED - Vaccination
+Protection des enfants contre le tétanos néonatal,TCHAD,Percent,2014,0.56,INSEED - Vaccination
+Prévalence de l'obésité,TCHAD,Percent,2018,2.3,INSEED - Vaccination
+Prévalence de l'émaciation,TCHAD,Percent,1996,14.0,INSEED - Vaccination
+Prévalence de l'émaciation,TCHAD,Percent,2000,0.117,INSEED - Vaccination
+Prévalence de l'émaciation,TCHAD,Percent,2004,0.14,INSEED - Vaccination
+Prévalence de l'émaciation,TCHAD,Percent,2010,15.7,INSEED - Vaccination
+Prévalence de l'émaciation,TCHAD,Percent,2014,13.0,INSEED - Vaccination
+Prévalence de l'émaciation,TCHAD,Percent,2018,13.9,INSEED - Vaccination
+Prévalence de la sous-alimentation,TCHAD,Percent,1996,39.0,INSEED - Vaccination
+Prévalence de la sous-alimentation,TCHAD,Percent,2000,0.276,INSEED - Vaccination
+Prévalence de la sous-alimentation,TCHAD,Percent,2004,37.0,INSEED - Vaccination
+Prévalence de la sous-alimentation,TCHAD,Percent,2010,30.3,INSEED - Vaccination
+Prévalence de la sous-alimentation,TCHAD,Percent,2014,28.8,INSEED - Vaccination
+Prévalence de la sous-alimentation,TCHAD,Percent,2018,29.2,INSEED - Vaccination
+Prévalence des maladies,TCHAD,Percent,1996,0.0,INSEED - Vaccination
+Prévalence du retard de croissance,TCHAD,Percent,1996,40.0,INSEED - Vaccination
+Prévalence du retard de croissance,TCHAD,Percent,2000,0.283,INSEED - Vaccination
+Prévalence du retard de croissance,TCHAD,Percent,2004,0.41,INSEED - Vaccination
+Prévalence du retard de croissance,TCHAD,Percent,2010,38.7,INSEED - Vaccination
+Prévalence du retard de croissance,TCHAD,Percent,2014,40.0,INSEED - Vaccination
+Prévalence du retard de croissance,TCHAD,Percent,2018,37.8,INSEED - Vaccination
+Taux d'insuffisance pondérale modérée 6 à 59 mois (%),TCHAD,Percent,2014,15.5,INSEED - Vaccination
+Taux d'insuffisance pondérale sévère 6 à 59 mois (%),TCHAD,Percent,2014,6.5,INSEED - Vaccination
+Taux d'insuffisance pondérale sévère 6 à 59 mois (%),TCHAD,Percent,2018,16.0,INSEED - Vaccination
+Taux de couverture en vaccin antirougeoleux (%),TCHAD,Percent,2014,66.1,INSEED - Vaccination
+Taux de malnutrition aiguë modérée (6-59 mois),TCHAD,Percent,2014,8.9,INSEED - Vaccination
+Taux de malnutrition aiguë sévère (6-59 mois),TCHAD,Percent,2014,2.8,INSEED - Vaccination
+Taux de malnutrition chronique sévère (0-59) mois),TCHAD,Percent,2014,11.0,INSEED - Vaccination
+"Taux de malnutrition chronique, modérée (0-59 mois)",TCHAD,Percent,2014,18.0,INSEED - Vaccination
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,1996,194.0,INSEED - Vaccination
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2000,194.0,INSEED - Vaccination
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2004,191.0,INSEED - Vaccination
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2010,175.0,INSEED - Vaccination
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2014,133.0,INSEED - Vaccination
+Taux de mortalité des moins de 5 ans,TCHAD,Percent,2018,122.0,INSEED - Vaccination
+Taux de mortalité due au paludisme (parmi toutes les causes de mortalité chez les 0-5 ans),TCHAD,,2014,0.51,INSEED - Vaccination
+Taux de mortalité due au paludisme (parmi toutes les causes de mortalité chez les 0-5 ans),TCHAD,,2018,8.7,INSEED - Vaccination
+Taux de mortalité infantile (%)(0 à 11 mois),TCHAD,Percent,2014,72.0,INSEED - Vaccination
+Taux de mortalité infantile (%)(0 à 11 mois),TCHAD,Percent,2018,0.96,INSEED - Vaccination
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,1996,103.0,INSEED - Vaccination
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2000,105.0,INSEED - Vaccination
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2004,102.0,INSEED - Vaccination
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2010,106.0,INSEED - Vaccination
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2014,72.0,INSEED - Vaccination
+Taux de mortalité infantile ou taux de mortalité néonatale,TCHAD,Percent,2018,78.0,INSEED - Vaccination
+Taux de mortalité maternelle pour 100 000 naissance,TCHAD,Number,1996,827.0,INSEED - Vaccination
+Taux de mortalité maternelle pour 100 000 naissance,TCHAD,Number,2014,860.0,INSEED - Vaccination
+Taux de natalité chez les adolescentes,TCHAD,Percent,2010,203.4,INSEED - Vaccination
+Taux de natalité chez les adolescentes,TCHAD,Percent,2014,179.4,INSEED - Vaccination
+Taux de natalité chez les adolescentes,TCHAD,Percent,2018,138.0,INSEED - Vaccination
+Taux de prévalence contraceptive,TCHAD,Percent,1996,0.04,INSEED - Vaccination
+Taux de prévalence contraceptive,TCHAD,Percent,2000,0.079,INSEED - Vaccination
+Taux de prévalence contraceptive,TCHAD,Percent,2010,0.048,INSEED - Vaccination
+Taux de prévalence contraceptive,TCHAD,Percent,2014,0.057,INSEED - Vaccination
+Taux de prévalence contraceptive,TCHAD,Percent,2018,0.081,INSEED - Vaccination
